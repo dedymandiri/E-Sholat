@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".jumat">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="Sholat Jum'at"
+                android:textColor="@color/hitam"
+                android:textSize="18dp"
+                android:gravity="center"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                tools:ignore="MissingConstraints" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="60dp">
+
+            <TextView
+                android:layout_width="340dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="9dp"
+                android:justificationMode="inter_word"
+                android:text="
+Selain sholat fardhu 5 waktu, ada satu sholat lagi yang hukumnya wajib bagi umat islam laki-laki, yaitu sholat jumat. Dalam agama islam, hari Jumat memang hari yang diistimewakan, dan sholat Jumat merupakan salah satu keistimewaan tersebut. Karena wajib, maka laki-laki umat islam harus tahu tata cara sholat jumat.
+\n\n
+Sama seperti sholat fardhu, bagi laki-laki umat muslim sholat jumat hukumnya fardhu ain. Artinya, laki-laki muslim tidak diperkenankan untuk meninggalkan sholat Jumat. Tidak hanya itu, laki-laki muslim sebaiknya juga mengikuti setiap tahapan dalam tata cara sholat Jumat. Bahkan, sebisa mungkin dianjurkan untuk menjalankan sholat Jumat beserta sunnahnya.
+\n\n
+Syarat Wajib Sholat Jumat\n
+Berikut syarat wajib dalam ibadah sholat jumat.
+\n
+- Islam
+\n
+Syarat wajib yang pertama, seseorang melaksanakan sholat jumat harus beragama Islam.
+\n
+- Baligh
+\n
+Syarat wajib kedua, untuk menjalankan sholat jumat adalah sudah akil baligh atau dewasa. Akil baligh ditandai dengan kemampuan membedakan hal baik dan hal buruk.
+\n
+- Berakal
+\n
+Seseorang yang diwajibkan menjalankan sholat jumat adalah mereka yang harus berakal, atau tidak dalam keadaan sakit jiwa atau hilang kesadaran.
+\n
+- Merdeka
+\n
+Syarat wajib sholat jumat berikutnya adalah merdeka dalam tidak sedang dalam sistem perbudakan.
+\n
+- Sehat
+\n
+Jika seorang laki-laki muslim sedang dalam keadaan sakit, maka kewajibannya untuk melakukan sholat jumat gugur. Namun, tetap diwajibkan untuk menjalankan sholat dzuhur seperti biasanya.
+\n
+- Menetap atau bermukim
+\n\n
+Artinya, jika seorang laki-laki muslim sedang dalam perjalanan, maka tidak diwajibkan baginya untuk menjalankan sholat Jumat. Namun, tetap seperti saat sedang sakit, dia tetap harus mendirikan sholat dzuhur seperti biasa.
+\n\n
+Syarat Sah Sholat Jumat
+\n
+Berikut syarat sah sholat Jumat:
+\n
+- Dilaksanakan di hari Jumat saat memasuki waktu dzuhur.
+\n
+- Sholat Jumat dilakukan secara berjamaah (minimal 40 orang) satu lingkungan, seperti desa, kota, dan sebagainya.
+\n
+- Masing-masing jamaah sholat Jumat harus memenuhi syarat wajib sholat jumat seperti yang disebutkan sebelumnya.
+\n
+- Sebelum melaksanakan sholat dua rakaat, di dahului dulu dengan dua khutbah dan juga membaca rukun khutbah
+\n
+- Sholat Jumat dilakukan setelah khatib selesai menyampaikan dua khutbah.
+\n\n
+Tata Cara Sholat Jumat\n
+Berikut tata cara ibadah sholat Jumat, dirangkum dari berbagai sumber.
+\n
+1) Membaca Niat
+\n
+- Bacaan Niat Sholat Jumat untuk Imam:
+\n\n
+USHALLI FARDAL JUM'ATI ADA'AN MUSTAQBILAL QIBLATI IMAMAN LILLAHI TA'ALA.
+\n\n
+Artinya: Aku niat melakukan sholat Jumat 2 rakaat dengan menghadap kiblat sebagai imam karena Allah Ta'ala.
+\n
+- Niat sholat Jumat sebagai Makmum
+\n\n
+USHALLI FARDAL JUM'ATI ADA'AN MUSTAQBILAL QIBLATI MAKMUMAN LILLAHI TA'ALA.
+\n\n
+Artinya: Aku niat melakukan sholat Jumat 2 rakaat dengan menghadap kiblat sebagai makmum karena Allah Ta'ala.
+\n
+2) Takbiratul ikhram
+\n
+3) Membaca doa iftitah
+\n
+4) Membaca surat Al-Fatihah
+\n
+5) Membaca surah pendek, takbir
+\n
+6) Rukuk
+\n
+7) I'tidal, takbir
+\n
+8) Sujud pertama
+\n
+9) Duduk di antara dua sujud
+\n
+10) Sujud kedua
+\n
+11) Berdiri untuk melaksanakan rakaat kedua
+\n
+12) Membaca surat Al-Fatihah
+\n
+13) Membaca surah pendek, takbir
+\n
+14) Rukuk
+\n
+15) I'tidal
+\n
+16) Sujud pertama
+\n
+17) Duduk di antara dua sujud
+\n
+18) Sujud kedua
+\n
+19) Tahiyat akhir
+\n
+20) Salam
+\n\n
+
+"/>
+        </LinearLayout>
+    </RelativeLayout>
+
+
+</ScrollView>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.e_sholat">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme.NoActionBar">
+        <activity android:name=".tarawih"></activity>
+        <activity android:name=".hajat" />
+        <activity android:name=".menu_idul" />
+        <activity android:name=".istisqo" />
+        <activity android:name=".rawatib" />
+        <activity android:name=".wudhu" />
+        <activity android:name=".taubat" />
+        <activity android:name=".idul_fitri" />
+        <activity android:name=".idul_adha" />
+        <activity android:name=".tentang" />
+        <activity android:name=".gerhana" />
+        <activity android:name=".ied" />
+        <activity android:name=".istikharoh" />
+        <activity android:name=".tasbih" />
+        <activity android:name=".jumat" />
+        <activity android:name=".dhuha" />
+        <activity android:name=".tahajud" />
+        <activity android:name=".ashar" />
+        <activity android:name=".dhuhur" />
+        <activity android:name=".subuh" />
+        <activity android:name=".isya" />
+        <activity android:name=".maghrib" />
+        <activity android:name=".fitur_sunnah" />
+        <activity android:name=".fitur_fardhu" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".slide_esholat" />
+        <activity android:name=".slide_carasholat" />
+        <activity android:name=".berdoa" />
+        <activity android:name=".menu" />
+    </application>
+
+</manifest>

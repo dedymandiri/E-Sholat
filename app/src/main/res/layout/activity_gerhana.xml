@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".gerhana">
+
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="Sholat Gerhana"
+                android:textColor="@color/hitam"
+                android:textSize="18dp"
+                android:gravity="center"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                tools:ignore="MissingConstraints" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="60dp">
+
+            <TextView
+                android:layout_width="340dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="9dp"
+                android:justificationMode="inter_word"
+                android:text="Masyarakat Indonesia bisa kembali menyaksikan fenomena langit Gerhana Matahari Cincin (GMC) lagi. Setelah akhir tahun lalu, kali ini GMC bisa disaksikan, Minggu (21/6).
+\n\n
+Lalu, apa yang harus kita lakukan saat gerhana matahari? Sebagai umat Islam, kita dianjurkan untuk salat gerhana matahari. Berikut ini ada bacaan niat, doa dan tata cara salat gerhana bulan yang lengkap untuk bisa kamu praktikkan.
+\n\n
+1. Mendirikan salat gerhana ketika matahari mulai tertutup
+\n
+Ini Niat, Doa dan Tata Cara Salat Gerhana Matahari yang LengkapPexels.com/David Mceachan
+Kamu bisa melaksanakan salat gerhana ketika matahari tertutupi setengah, penuh, hingga kembali pada kondisi normal. Salat bisa dilakukan di rumah atau di masjid secara sendiri atau berjemaah. Salat gerhana terdiri dari dua rakaat.
+\n\n
+2. Niat salat gerhana
+\n
+Ini Niat, Doa dan Tata Cara Salat Gerhana Matahari
+\n
+Jika kamu sebagai imam, bisa membaca niat:
+\n\n
+أُصَلِّيْ سُنَّةً لِكُسُوْفِ الشَّمْسِ اِمَامًا لِلّهِ تَعَالَى
+\n\n
+”Ushalli sunnatal khusufi fi syamsi rak'ataini imaman lillahi ta'ala.”
+\n\n
+Artinya: ”Saya salat sunah gerhana matahari dua rakaat sebagai imam karena Allah SWT.”
+\n\n
+Sedangkan, untuk makmum niatnya:
+\n\n
+ أُصَلِّيْ سُنَّةً لِكُسُوْفِ الشَّمْسِ مَأْمُوْمًا لِلّهِ تَعَالَى
+\n\n
+”Ushalli sunnatal khusuf fi syamsi rak'ataini makmuman lillahi ta'ala.”
+\n\n
+Artinya: ”Saya salat sunah gerhana matahari dua rakaat sebagai makmum karena Allah SWT.”
+\n\n
+3. Tata cara salat gerhana matahari
+\n
+Ini Niat, Doa dan Tata Cara Salat Gerhana Matahari yang Lengkappexels.com/rawpixel
+\n
+1. Takbiratul Ihram.
+\n
+2. Membaca surat Al-Fatihah dan disunahkan membaca surat yang lebih panjang, misalnya Al-Baqarah.
+\n
+3. Ruku, bacalah dengan perlahan, karena disunahkan ruku lebih lama seperti berdiri.
+\n
+4. Berdiri kembali dan membaca surat Al-Fatihah, dilanjutkan dengan surat yang lebih panjang dari sebelumnya.
+\n
+5. Ruku lagi.
+\n
+6. Bacalah doa lebih perlahan dari sebelumnya.
+\n
+7. I'tidal.
+\n
+8. Sujud.
+\n
+9. Duduk di antara dua sujud.
+\n
+10. Sujud kedua.
+\n
+11. Tahiyat akhir.
+\n
+12. Salam.
+\n\n
+5. Mendengarkan kutbah
+\n
+Ini Niat, Doa dan Tata Cara Salat Gerhana Matahari yang LengkapInstgram/Hanan_attaki
+Ketika salat gerhana berjemaah, dianjurkan mendengarkan kutbah dan beristigfar bersama-sama. Berdoa dengan khusyuk memohon pertolongan Allah agar terhindar dari segala peristiwa buruk.
+\n\n
+Itulah niat, doa dan tata cara salat gerhana secara lengkap yang bisa kamu lakukan. Sesungguhnya mendirikan salat jauh lebih baik daripada kamu hanya mengungkapkan kecemasan atas fenomena tersebut.
+\n\n
+
+"/>
+        </LinearLayout>
+    </RelativeLayout>
+
+
+
+</ScrollView>

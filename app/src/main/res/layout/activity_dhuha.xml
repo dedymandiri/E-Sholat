@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".dhuha">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="Sholat Dhuha"
+                android:textColor="@color/hitam"
+                android:textSize="18dp"
+                android:gravity="center"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                tools:ignore="MissingConstraints" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="60dp">
+
+            <TextView
+                android:layout_width="340dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="9dp"
+                android:justificationMode="inter_word"
+                android:text="Keutamaan Sholat Dhuha\n
+Setiap ibadah di dalam Islam memiliki fadhilah masing-masing. Hingga banyak ulama menyusun kitab yang menjelaskan fadhilah amal atau at targhib wat tarhib.
+Berikut ini enam keutamaan sholat dhuha :\n
+1. Wasiat Rasulullah\n
+2. Sholat awwabin\n
+3. Dua rakaatnya senilai 360 sedekah\n
+4. Rezeki diantar\n
+5. Ghanimah terbanyak\n
+6. Berpahala umroh\n
+\n\n
+Manfaat Sholat Dhuha\n
+Manfaat sholat Dhuha yang dirasakan oleh orang muslim yang mengerjakannya adalah dapat memudahkan rizkinya. Untuk itu diutamakan membaca surat-surat dalam sholatnya yang bisa mendatangkan rizki. Berikut beberapa manfaat sholat Dhuha.
+\n\n
+Waktu Sholat Dhuha\n
+Waktu shalat dhuha terbentang sejak matahari naik setinggi tombak hingga mendekati tengah (atas kepala). Di Indonesia, waktu ini terbentang selama beberapa jam sejak 20 menit setelah matahari terbit hingga 15 menit sebelum masuk waktu dhuhur. Namun menurut Ustadz Abdul Somad, waktunya mulai 12 menit setelah matahari terbit dan selesainya 10 menit sebelum waktu Zhuhur.
+\n\n
+Niat Sholat Dhuha\n
+Semua ulama sepakat bahwa tempat niat adalah hati. Melafadzkan niat bukanlah suatu syarat. Maknanya, tidak ada keharusan melafadzkan niat. Namun Syaikh Wahbah Az Zuhaili dalam Fiqih Islam wa Adillatuhu menjelaskan, menurut jumhur ulama selain madzhab Maliki, hukumnya sunnah dalam rangka membantu hati menghadirkan niat.
+\n
+Sedangkan dalam madzhab Maliki, yang terbaik adalah tidak melafadzkan niat karena tidak ada contohnya dari Rasulullah shallallahu ‘alaihi wasallam.
+Bagi yang melafadzkan niat, lafadz niat sholat dhuha adalah sebagai berikut :
+\n\n
+أُصَلِّى سُنَّةَ الضُّحَى رَكْعَتَيْنَ لِلَّهِ تَعَالَى
+\n\n
+(Usholli sunnatadh dhuhaa rok’ataini lillaahi ta’aalaa)\n
+Artinya: “Aku niat sholat sunnah dhuha dua rakaat karena Allah Ta’ala”
+\n\n
+Tata Cara Sholat Dhuha\n
+Bagaimana tata cara sholat dhuha? Sholat dhuha dikerjakan dua rakaat salam – dua rakaat salam. Jumlah rakaatnya minimal dua rakaat. Rasulullah kadang mengerjakan sholat dhuha empat rakaat, kadang delapan rakaat. Karenanya banyak ulama tidak membatasi jumlah rakaatnya.
+\n\n
+Tata caranya sama dengan sholat sunnah dua rakaat pada umumnya, yaitu:\n
+1. Niat sholat dhuha\n
+2. Takbiratul ihram, lalu membaca doa iftitah\n
+3. Membaca surat Al Fatihah\n
+4. Membaca surat atau ayat Al Qur’an\n
+5. Ruku’ dengan tuma’ninah\n
+6. I’tidal dengan tuma’ninah\n
+7. Sujud dengan tuma’ninah\n
+8. Duduk di antara dua sujud dengan tuma’ninah\n
+9. Sujud kedua dengan tuma’ninah\n
+10. Berdiri lagi untuk menunaikan rakaat kedua\n
+11. Membaca surat Al Fatihah\n
+12. Membaca surat atau ayat Al Qur’an\n
+13. Ruku’ dengan tuma’ninah\n
+14. I’tidal dengan tuma’ninah\n
+15. Sujud dengan tuma’ninah\n
+16. Duduk di antara dua sujud dengan tuma’ninah\n
+17. Sujud kedua dengan tuma’ninah\n
+18. Tahiyat akhir dengan tuma’ninah\n
+19. Salam
+\n\n
+Bacaan Doa Setelah Sholat Dhuha Arab\n
+اَللّٰهُمَّ اِنَّ الضُّحَآءَ ضُحَاءُكَ وَالْبَهَاءَ بَهَاءُكَ وَالْجَمَالَ جَمَالُكَ وَالْقُوَّةَ قُوَّتُكَ وَالْقُدْرَةَ قُدْرَتُكَ وَالْعِصْمَةَ عِصْمَتُكَ
+اَللّٰهُمَّ اِنْ كَانَ رِزْقِى فِى السَّمَآءِ فَأَنْزِلْهُ وَاِنْ كَانَ فِى اْلاَرْضِ فَأَخْرِجْهُ وَاِنْ كَانَ مُعَسَّرًا فَيَسِّرْهُ وَاِنْ كَانَ حَرَامًا فَطَهِّرْهُ وَاِنْ كَانَ بَعِيْدًا فَقَرِّبْهُ بِحَقِّ ضُحَاءِكَ وَبَهَاءِكَ وَجَمَالِكَ وَقُوَّتِكَ وَقُدْرَتِكَ آتِنِىْ مَآاَتَيْتَ عِبَادَكَ الصَّالِحِيْنَ
+\n\n
+Artinya : “Ya Allah, sesungguhnya waktu Dhuha adalah waktu Dhuha-Mu, keagungan adalah keagungan-Mu, keindahan adalah keindahan-Mu, kekuatan adalah kekuatan-Mu, penjagaan adalah penjagaan-Mu”
+\n\n
+“Ya Allah, apabila rezekiku berada di atas langit maka turunkanlah, apabila berada di dalam bumi maka keluarkanlah, apabila sukar mudahkanlah, apabila haram sucikanlah, apabila jauh dekatkanlah dengan kebenaran dhuha-Mu, kekuasaan-Mu (wahai Tuhanku), datangkanlah padaku apa yang Engkau datangkan kepada hamba-hamba-Mu yang sholeh”
+\n\n
+
+"/>
+        </LinearLayout>
+    </RelativeLayout>
+
+
+</ScrollView>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/putih"
+    tools:context=".wudhu">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="Sholat Wudhu"
+                android:textColor="@color/hitam"
+                android:textSize="18dp"
+                android:gravity="center"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                tools:ignore="MissingConstraints" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="60dp">
+
+            <TextView
+                android:layout_width="340dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="9dp"
+                android:justificationMode="inter_word"
+                android:text="Shalat sunnah wudhu merupakan shalat dua rakaat yang disunnahkan untuk kita lakukan sesaat setelah wudhu kita sempurna.
+
+Seperti dikutip dari buku (Shalat dan Dzikir sehari-hari dan sepanjang tahun), Shalat sunnah wudhu ini sendiri bisa dilaksanakan saat hendak bepergian, apabila ada ketegangan.
+\n\n
+Pelaksanaannya sebelum sholat wajib atau sholat sunnah lainnya\n
+Dilaksanakan sekurang-kurangnya satu kali dalam sehari.
+\n\n
+Nah berikut ini niat sholat sunnah wudhu\n
+\n
+Niat Sholat Wudhu
+\n\n
+USHALLII SUNNATAL WUDHUU-I RAK'ATAINI LILLAAHI TA'AALAA
+\n\n
+Syaratnya :
+\n
+Rakaat 1 membaca Al Fatihah kemudian Al Kaafiruuun (Qulya)
+\n
+Rakaat 2 membaca surat Al Fatihah kemudian surat Al Ikhlaash (Qulhu)
+\n
+Bacaan sesudah salam
+\n
+Dzikir pendek sebanyak 3 kali
+\n\n
+- SUBHAANALLAAH WABIHAMDIH, SUBHAANALLAAHIL'AZHIM (3X)
+\n\n
+
+Artinya : Maha Suci Allah dan aku memuji kepada Nya, Maha Suci Allah Yang Maha Agung
+\n\n
+- ALLAAHU AKBAR (3X)
+\n\n
+Artinya : Allah Maha Besar
+\n\n
+- ALHAMDU LILLAAH (3X)
+\n\n
+Artinya : Segala Puji bagi Allah
+\n\n
+- LAA ILAAHA ILLALLAAH (3X)
+\n\n
+Artinya : Tiada Tuhan selain Allah
+\n\n
+- LAA ILLAAHA ILLALLAAH, WAHDAHUU LAA SYARIKALAH, LAHUL MULKU WALAHUL HAMDU YUHII WA YUMIITU WA HUWA 'ALAA KULLI SYAI-IN QADIIR (1)
+\n\n
+Artinya: Tiada Tuhan kecuali Allah, Tuhan Yang Maha Esa, Tiada yang menyekutukan-Nya. Bagi-Nya kerajaan dan puji, yang menghidupkan dan yang mematikan. Dia berkuasa atas semua sesuatu.
+\n\n
+- ASTAGHFIRULLAAHAL 'AZHIIM (3X)
+\n\n
+
+Artinya : Saya memohon ampunan Allah Yang Maha Agung
+\n\n
+- RABBIGHFIRLII WARHAMNII WATUB 'ALAYYA
+\n\n
+Artinya : ya Tuhanku, ampunilah dosaku, dan berilah rahmat kepadaku dan terimalah tobatku
+\n\n
+- SHALAWAT NUR
+\n\n
+ALLAAHUMMA SHALLI 'ALAA NUURIL ANWAAR, WASIRRIL ASRAAR, WATIRYAAQIL AGHYAAR, WAMIFTAAHI BAABIL YASAAR, SAYYIDINAA MUHAMMADINIL MUKHTAAE WA AALIHIL ATH-HAAR, WA ASH-HAABIHIL AKHYAAR, 'ADADA NI' AMILLAAHI WA IFDHAALIH
+\n\n
+Artinya: Ya Allah limpahkanlah shalawat atas cahaya di antara segala cahaya, rahasia di antara segala rahasia, penawar duka,  dan pembuka pintu kemudahan, Sayyidina Muhammad, manusia pilihan; juga kepada keluarganya yang suci dan sahabatnya yang terpilih, sebanyak jumlah kenikmatan Allah dan karunia Nya
+\n\n
+Doa Sholat Sunnah Wudhu
+\n\n
+ALLAAHUMMA AL HIMNII RUSYDII WA A'IDZINII MIN SYARRI NAFSII (3X)
+\n\n
+Artinya : Ya Allah ya Tuhan kami, ilhamilah daku dengan kebijaksanaan/kecerdasan/kemudahan(tidak pikun) dan hindarilah daju dari nafsu-nafsu (keinginan-keinginan ) yang jelek.(*)
+\n\n
+
+
+            "/>
+        </LinearLayout>
+    </RelativeLayout>
+
+
+</ScrollView>

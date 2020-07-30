@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".tasbih">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="Sholat Tasbih"
+                android:textColor="@color/hitam"
+                android:textSize="18dp"
+                android:gravity="center"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                tools:ignore="MissingConstraints" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="60dp">
+
+            <TextView
+                android:layout_width="340dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="9dp"
+                android:justificationMode="inter_word"
+                android:text="Sholat tasbih adalah sholat sunnah yang dilakukan dengan membaca tasbih ketika sholat. Dengan banyaknya bacaan tasbih yang kita baca, kita berharap bahwa Allah akan mengampuni dosa kita. Disebut sebagai sholat tasbih karena mengandung bacaan tasbih di dalam sholatnya.\n\n
+Bahkan, Nabi Muhammad SAW saja menganjurkan kita atau umat muslim untuk melakukan sholat tasbih, karena terdapat beberapa manfaat, diantaranya:\n
+• Menghapus dosa\n
+• Menambah timbangan amal\n
+• Mempermudah menghadapi cobaan
+\n\n
+Manfaat Shalat Tasbih\n
+Berikut ini adalah beberapa manfaat sholat tasbih yang bisa didapatkan oleh umat muslim yang melaksanakannya :\n
+1. Menentramkan Batin\n
+2. Dosa Terhapus\n
+3. Mendatangkan Pahala
+\n\n
+Waktu mengerjakan sholat tasbih\n
+Sebenarnya sholat tasbih dapat dilakukan kapan saja, namun ada beberapa ketentuan diantaranya:\n
+1. Tidak boleh dilakukan ketika munculnya matahari yaitu setelah sholat subuh dan sebelum duhur.\n
+2. Tidak boleh dilakukan ketika matahari terbenam yaitu setelah sholat ashar.\n
+3. Jika dilakukan siang hari atau sesudah sholat duhur, dianjurkan untuk mengerjakan 4 rakaat dengan satu salam.\n
+4. Jika dilakukan pada malam hari, dianjurkan untuk melakukan sholat tasbih sebanyak 4 rakaat dengan dua salam.\n
+5. Tidak dilakukan secara berjamaah.
+\n\n
+Tata cara sholat tasbih\n
+Berikut adalah tata cara sholat tasbih yang benar:\n
+1. Membaca Niat\n
+ Pada siang hari (4 rakaan dengan satu salam)
+\n\n
+Ushalli sunnatat tasbihi rak'ataini lillahi ta'ala
+\n\n
+Artinya : “Aku niat sholat tasbih empat rakaat karena Allah Ta'ala.
+\n\n
+Pada malam hari (4 rakaan dua salam)
+\n\n
+Usholli sunnatat tasbihi rak'ataini lillahi ta'ala
+\n\n
+Artinya : “Aku niat sholat tasbih dua rakaat karena Allah Ta'ala.2. Takbiratul ihram\n
+3. Membaca do'a iftitah\n
+4. Membaca surat Al-fatihah\n
+5. Membaca surat Al-qur'an\n
+Setelah membaca surat Al-Qur'an, diteruskan dengan membaca tasbih sebanyak 15 kali seperti di bawah ini:
+\n\n
+Subhanallah, Walhamdulillah, walaa ilaaha illa allah, wallahu akbar
+\n\n
+Artinya : “Maha suci Allah dan segala puji bagi Allah tiada Tuhan selain Allah, Allah Maha Besar.”\n
+6. Ruku' dan membaca doa ruku'\n
+Dilanjutkan dengan membaca tasbih sebanyak 10 kali\n
+7. I'tidal dan membaca bacaan I'tidal\n
+Dilanjutkan dengan membaca tasbih sebanyak 10 kali\n
+8. Sujud dan membaca bacaan sujud\n
+Dilanjutkan dengan membaca tasbih sebanyak 10 kali\n
+9. Duduk diantara dua sujud dan membaca doanya\n
+Dilanjutkan membaca tasbih sebanyak 10 kali\n
+10. Sujud untuk yang kedua kali\n
+Dilanjut dengan membaca tasbih sebanyak 10 kali\n
+11. Berdiri mengerjakan rakkat yang kedua (tetap mengulangi bacaan seperti yang dilakukan pada rakaat pertama)\n
+12. Duduk Tasyahud akhir\n
+Pada saat duduk tasyahud akhir, membaca tasbih dilakukan terlebih dahulu sebelum membaca doa tasyahud akhir sebanyak 10 kali.\n
+13. Salam\n
+Berikut ini adalah doa yang harus dilafadzkan sehabis melakukan shalat tasbih :
+\n\n
+اللّهُمَّ اِنِّى اَسْئَلُكَ تَوْفِيْقَ اَهْلِ اْلهُدَى وَاَعْمَالَ اَهْلِ اْليَقِيْن وَمُنَاصَحَةَ اَهْلِ التَّوْبَةِ وَعَزَمَ اَهْلِ الصَّبْرِ وَجَدَّ اَهْلِ الْخَشْيَةِ وَطَلَبَ اَهْلِ الرَّغْبَةِ وَتَعَبُّدَ اَهْلِ الْوَرَعِ وَعِرْفَانَ اَهْلِ اْلعِلْمِ حَتىَّ اَخَافَكَ
+اللّهُمَّ اِنِّى اَسْئَلُكَ مَخَافَةً تُحْجِزُنِى عَنْ مَعَاصِيْكَ حَتَّى اَعْمَلَ بِطَعَاتِكَ عَمَلاً اَسْتَحِقُ بِهِ رِضَاكَ وَحَتَّى اُنَاصِحَكَ فِى
+التَّوْبَةِ خَوْفًا مِنْكَ وَحَتَّى اُخْلِصَ لَكَ النَّصِيْحَةَ حُبًّالَكَ وَحَتَّى اَتَوَكَّلَ عَلَيْكَ فِى اْلأُمُوْرِ كُلِّهَا وَاُحْسِنَ الظَّنَّ بِكَ سُبْحَانَ
+خَالِقِ النُّوْرِ رَبَّنَا اَتْمِمْ لَنَا نُوْرَنَا وَغْفِرْلَنَا اِنَّكَ عَلَى كُلِّ شَيْءٍ قَدِيْر بِرَحْمَتِكَ يَااَرْحَمَ الرَّّاحِمِيْن
+\n\n
+Artinya :“Ya Allah yang Maha Pengasih, yang Maha Penyayang, yang Maha Hidup dan Maha Berdiri sendiri, wahai Dzat yang Memiliki Keperkasaan dan Kemuliaan, Pemilik ketaqwaan dan Ampunan, wahai yang diingat para pedzikir, anugerahkanlah padaku taubat nasuha dan tambahkanlah bagiku dengan rahmat-Mu cahaya, kejelasan dan kebersihan. Wahai Dzat yang Maha Pengasih, Maha Penyayang.”
+\n\n
+"/>
+        </LinearLayout>
+    </RelativeLayout>
+
+
+</ScrollView>

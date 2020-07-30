@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/putih"
+    tools:context=".istisqo">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="Sholat Istisqo"
+                android:textColor="@color/hitam"
+                android:textSize="18dp"
+                android:gravity="center"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                tools:ignore="MissingConstraints" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="60dp">
+
+            <TextView
+                android:layout_width="340dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="9dp"
+                android:justificationMode="inter_word"
+                android:text="Salat istisqa adalah salat sunah muakkad dua rakaat untuk meminta turunnya hujan kepada Allah. Tata cara salat minta hujan mirip salat Id, termasuk soal jumlah takbir dan adanya khotbah setelah salat.
+                \n\nSalat istisqa biasa dilakukan ketika terjadi musim kemarau berkepanjangan atau krisis air. Sebagai contoh yang terjadi pada Selasa (27/8/2019) di halaman Griya Agung Palembang, Sumatera Selatan.
+                Gubernur Sumatera Selatan Herman Deru melakukan salat istisqa berjamaah dengan warga muslim di wilayahnya, dengan imam Nawawi Dencik.
+                \n\nSalat istisqa ini dilakukan setelah kemarau panjang yang menyebabkan kebakaran hutan, juga keringnya lahan pertanian. Salat ini dilakukan setelah pemerintah melakukan berbagai upaya untuk mengantisipasi dan mengatasi kebakaran hutan.
+                \n\nKita melakukan salat istisqa untuk memohon kepada Allah agar menurunkan hujan,  kata Herman Deru dikutip Antara. Tata Cara Salat Istisqa Dikutip dari Tata Cara Shalat Istisqa atau Meminta Hujan oleh Alhafiz Kurniawan, salat istisqa dilakukan dua rakaat, serupa dengan salat Id.
+                \nMeskipun demikian, terdapat perbedaan dalam tata cara khatib berkhotbah. Disebutkan, Abdullah Bafadhal Al-Hadhrami dalam Kitab Hamisy Busyral Karim, menuliskan bahwa khatib beristighfar dalam khotbah salat istisqa sebagaimana takbir dalam khotbah Id.
+                \n\n
+1. Bacaan Niat
+\n
+Sebelum melaksanakan salat minta hujan, baiknya seseorang melafalkan niat salat istisqa. Berikut bacaan niat salat minta hujan:
+\n\n
+Bahasa Arab: أُصَلِّيْ سُنَّةَ الاِسْتِسْقَاءِ رَكْعَتَيْنِ مَأْمُوْمًا لِلهِ تَعَالَى
+\n\n
+bahasa Latin: Ushalli sunnatal istisqa'i rak'ataini (imaaman/ma'muman) lillahi ta'ala
+\n\n
+Artinya: Aku sengaja salat sunnah minta hujan dua rakaat (sebagai imam/makmum) karena Allah ta'ala.
+\n\n
+2. Tata Cara
+\n
+Tata cara salat meminta hujan turun dilakukan sebanyak dua rakaat dan menghadap kiblat.
+\n
+Pada rakaat pertama, seseorang harus melakukan takbir sebanyak tujuh kali dan kemudian membaca surat Al-Fatihah. Selanjutnya, melakukan rukuk, sujud, duduk di antara sujud, dan sujud kedua seperti salat lainnya.
+\n
+Kemudian, pada rakaat kedua salat minta hujan, seseorang harus melakukan takbir sebanyak lima kali dan melanjutkan dengan bacaan surat Al-Fatihah. Setelahnya, melaksanakan rukuk, sujud, duduk di antara sujud, sujud kedua, dan terakhir salam.
+\n
+Sesudah pelaksanaan salat minta hujan, khatib diminta melakukan khutbah sebanyak dua kali. Namun, sebelum masuk ke khutbah pertama, khatib membaca istighfar sembilan kali terlebih dahulu.
+\n
+Lalu, pada khutbah kedua, khatib diminta membaca istighfar sebanyak tujuh kali. Dalam khutbah diminta untuk memperbanyak bacaan doa minta hujan.
+\n\n
+3. Doa Minta Hujan
+\n
+Doa minta hujan yang diriwayatkan oleh Imam As-Syafi'i, Abu Dawud, dan lainnya sebagai berikut
+\n\n
+Arab: اللَّهُمَّ اسْقِنَا غَيْثًا مُغِيثًا مَرِيئًا هَنِيئًا مَرِيعًا غَدَقًا مُجَلَّلًا عَامَّا طَبَقًا سَحًّا دَائِمًا
+\n\n
+اللَّهُمَّ اسْقِنَا الْغَيْثَ وَلَا تَجْعَلْنَا مِنَ الْقَانِطِينَ
+\n\n
+اللَّهُمَّ إِنَّ بِالْعِبَادِ وَالْبِلَادِ وَالْبَهَائِمِ وَالْخَلْقِ مِنَ الْبَلَاءِ وَالْجَهْدِ وَالضَّنْكِ مَا لَا نَشْكُو إِلَّا إِلَيْكَ
+\n\n
+اللَّهُمَّ أَنْبِتْ لَنَا الزَّرْعَ وَأَدِرَّ لَنَا الضَّرْعَ وَاسْقِنَا مِنْ بَرَكَاتِ الْسَمَاءِ وَأَنْبِتْ لَنَا مِنْ بَرَكَاتِ الْأَرْضِ
+\n\n
+اللَّهُمَّ ارْفَعْ عَنَّا الْجَهْدَ وَالْجُوعَ وَالْعُرْيَ وَاكْشِفْ عَنَّا الْبَلَاءَ مَا لَا يَكْشِفُهُ غَيْرُكَ
+\n\n
+اللَّهُمَّ إِنَا نَسْتَغْفِرُكَ إِنَّكَ كُنْتَ غَفَّارًا فَأَرْسِلِ السَّمَاءَ عَلَيْنَا مِدْرَارًا
+\n\n
+Latin: Allāhummasqinā ghaitsan mughītsan hanī'an marī'an (lan riwayat murī'an) ghadaqan mujallalan thabaqan sahhan dā'iman.
+\n\n
+Allāhummasqināl ghaitsa, wa lā taj'alnā minal qānithīn
+\n\n
+Allāhumma inna bil 'ibādi wal bilādi wal bahā'imi wal khalqi minal balā'i wal juhdi wad dhanki mā lā nasykū illā ilaika.
+\n\n
+Allāhumma anbit lanaz zar'a, wa adirra lanad dhar'a, wasqinā min barakātis samā'i, wa anbit lanā min barakātil ardhi
+\n\n
+Allāhummarfa' 'annal jahda wal jū'a wal 'urā, waksyif 'annal balā'a mā lā yaksyifuhū ghairuka
+\n\n
+Allāhumma innā nastaghfiruka, innaka kunta ghaffārā, fa arsilis samā'a 'alainā midrārā
+\n\n
+Artinya: Ya Allah, turunkan kepada kami air hujan yang menolong, mudah, menyuburkan, yang lebat, banyak, merata, menyeluruh, dan bermanfaat abadi. Ya Allah, turunkan kepada kami air hujan. Jangan jadikan kami termasuk orang yang berputus harapan.
+\n\n
+Ya Allah, sungguh banyak hamba, negeri, dan jenis hewan, dan segenap makhluk lainnya mengalami bencana, paceklik, dan kesempitan di mana kami tidak mengadu selain kepada-Mu. Ya Allah, tumbuhkan tanaman kami, deraskan air susu ternak kami, turunkan pada kami air hujan karena berkah langit-Mu, dan tumbuhkan tanaman kami dari berkah bumi-Mu.
+\n\n
+Ya Allah, angkat dari bahu kami kesusahan paceklik, kelaparan, ketandusan. Hilangkan dari kami bencana yang hanya dapat diatasi oleh-Mu. Ya Allah, sungguh kami memohon ampun kepada-Mu, karena Kau adalah maha pengampun. Maka turunkan pada kami hujan deras dari langit-Mu.
+\n\n
+
+
+            "/>
+        </LinearLayout>
+    </RelativeLayout>
+
+</ScrollView>

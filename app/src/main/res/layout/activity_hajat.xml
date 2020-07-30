@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/putih"
+    tools:context=".hajat">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="Sholat Hajat"
+                android:textColor="@color/hitam"
+                android:textSize="18dp"
+                android:gravity="center"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                tools:ignore="MissingConstraints" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="60dp">
+
+            <TextView
+                android:layout_width="340dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="9dp"
+                android:justificationMode="inter_word"
+                android:text="Niat sholat hajat berbunyi Usholli sunnatal-haajati rok’atayni lillahi ta’aala yang berarti “Saya berniat sholat sunnah hajat dua roka’at karena Allah Ta’aala”
+
+Setiap orang pasti mempunyai hajatnya masing-masing. Entah dalam berupa harapan, kebutuhan, keinginan dalam kehidupannya.
+\n\n
+Dalam agama Islam, diajarkan ketika seorang hamba mempunyai hajat dalam hidupnya. Maka, ia berhak memohon dan meminta kepada Tuhannya untuk mengabulkannya.
+
+Memohon dan meminta kepada Tuhan banyak bentuknya. Bahkan dalam ajaran Islam, ibadah kepada Tuhan hendaknya diucapkan dengan permohonan.
+\n\n
+Allah SWT berfirman dalam Al-Qur’an
+\n\n
+إِنَّهُمْ كَانُوا يُسَارِعُونَ فِي الْخَيْرَاتِ وَيَدْعُونَنَا رَغَبًا وَرَهَبًا ۖ وَكَانُوا لَنَا خَاشِعِينَ
+\n\n
+Artinya : Sesungguhnya mereka adalah orang-orang yang selalu bersegera dalam (mengerjakan) perbuatan-perbuatan yang baik dan mereka (selalu) berdo’a kepada Kami dengan berharap dan takut. Dan mereka adalah orang-orang yang khusyu’ (dalam beribadah) [Al-Anbiyâ’/21: 90].
+\n\n
+Salah satu sholat sunnah yang khusus untuk diajarkan kepada umat Islam tentang hajat yaitu sholat hajat. Sholat hajat mempunyai banyak keistimewaan. Ketika seseorang mempunyai hajat, maka mintalah kepada Allah melalui sholat hajat.
+\n\n
+niat sholat hajat\n
+Para sahabat dalam masanya sering mencontohkan mengerjakan sholat hajat meski dengan hajat kecil sekalipun. Hal ini tak lain diajarkan oleh Rasulullah melalui suatu riwayat Rasulullah SAW bersabda:
+\n\n
+لِيَسْاَلْ أَحَدُكُمْ رَبَّهُ حَجَتَهُ حَتَّى يَسْاَلَهُ الْمِلْحَ وَحَتَّى يَسْاَلَهُ شِسْعَ نَعْلِهِ إِذَاانْقَطَعَ
+\n\n
+Artinya: “Hendaklah salah seorang dari kalian senantiasa meminta kebutuhannya kepada Allah, sampai pun ketika meminta garam, sampai pun meminta tali sendalnya ketika putus.” (HR. Tirmdzi; Hasan)
+\n\n
+Rasulullah senantiasa mencontohkan para sahabat untuk meminta dan memohon kepada Allah SWT. Hanya Allah yang mampu memenuhi dan mencukupi hajat dan kebutuhan para hamba-Nya.
+
+Tetapi jika dirasa memiliki hajat yang cukup penting semisal pernikahan, membangun rumah, jenis pekerjaan. Maka, Rasulullah menngajarkan kepada umatnya melalui sholat sunnah hajat.
+\n\n
+Adapun untuk penjelasan tata cara sholat hajat dijelaskan berikut:
+\n
+Tata Cara Sholat Hajat pada Rakaat Pertama:\n
+1. Niat melakukan sholat hajat\n
+2. Takbirotul ihram (berdiri bagi yang mampu)\n
+3. Doa iftitah\n
+4. Membaca surat Al-Fatihah\n
+5. Setelah alfatihah, dilanjutkan dengan membaca salah satu surat dalam Al Quran.Surat yang dibaca bebas. Diutamakan membaca surat al-Kaafirun sebanyak 3 kali.\n
+6. Ruku secara tuma’ninah\n
+7. I’tidal (bangun dari ruku) secara tuma’ninah\n
+8. Sujud secara tuma’ninah\n
+9. Duduk diantara dua sujud secara tuma’ninah\n
+10. Sujud kedua secara tuma’ninah\n
+\n\n
+Tata Cara Sholat Hajat pada Rakaat Kedua:\n
+1. Berdiri untuk raka’at kedua\n
+2. Membaca surat Al-Fatihah\n
+3. Setelah alfatihah, dilanjutkan membaca Surat dalam Al-Quran.\n
+4. Diutamakan membaca surat al-ikhlas sebanyak 3 kali\n
+5. Ruku’ secara tuma’ninah\n
+6. I’tidal (bangun dari ruku) secara tuma’ninah\n
+7. Sujud secara tuma’ninah\n
+8. Duduk diantara dua sujud secara tuma’ninah\n
+9. Sujud kedua secara tuma’ninah\n
+10. Duduk tasyahud akhir secara tuma’ninah\n
+11. Mengucapkan salam
+\n\n
+Begitulah tata cara melakukan shlat hajat. Lebih bagus lagi jika ditambah dengan sujud setelah mengucap salam dengan maksud merendahkan diri kepada Allah ta’ala.
+\n
+Berikut urutan bacaan yang dibaca ketika sujud setelah salam pada sholat hajat.
+\n
+1. Saat melakukan sujud ini kita membaca
+\n\n
+سُبْحَانَ اللهِ وَالْحَمْدُ للهِ، وَلاَ إِلَهَ إِلاَّ الله، وَاللهُ أَكْبَرُ
+\n\n
+Subhahanallah walhamdulillah walaailaaha illallah waallahu akbar walaa haula wa quwwata illaa billahil ‘aliiyil ‘adzim
+\n\n
+Artinya : Maha suci bagi Allah, segala puji bagi Allah, tidak ada satu Tuhan pun yang disembah kecuali Allah, dan Allah maha besar
+\n\n
+Dibaca sebanyak 10 kali.
+\n\n
+2. Setelah itu kita membaca
+\n\n
+اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِ سَيِّدِنَا مُحَمَّد
+\n\n
+Allahumma sholli ‘alaa sayyidina Muhammad wa ‘alaa ali sayyidina Muhammad
+\n\n
+Artinya : “Yaa Allah, beri karunia kesejahteraan atas junjungan kami Nabi Muhammad, kesejahteraan yang diridhoi dan ridhoilah dari pada sahabat sahabat sekalian”
+\n\n
+Dibaca sebanyak 10 kali.
+\n\n
+3. Dan yang terakhir membaca doa
+\n\n
+Rabbanaa aatinaa fidunyaa hasanah wa fil’akhirati hasanah wa qinaa ‘adzaaban nar
+\n\n
+Artinya : “Ya Allah, berikanlah kepada Kami kebaikan di dunia, berikan pula kebaikan di akhirat dan lindungilah Kami dari siksa neraka.” (QS. al-Baqarah : 201).
+\n\n
+Waktu Pelaksanaan dan Jumlah Rakaat\n
+Sholat hajat utama ditunaikan di malam hari seperti sholat tahajud. Namun, sholat hajat merupakan sholat sunnah yang bisa dikerjakan sepanjang waktu kecuali pada waktu terlarang dilakukan sholat. Waktu terlarang tersebut diantaranya sebagai berikut:
+\n\n
+Dari sholat Shubuh hingga terbit matahari terbit.\n
+Dari matahari terbit hingga matahari meninggi (kira-kira 15 menit setelah matahari terbit).
+Ketika matahari di atas kepala tidak condong ke timur atau ke barat hingga matahari tergelincir ke barat.\n
+Dari sholat Ashar hingga mulai tenggelam.\n
+Dari matahari mulai tenggelam hingga tenggelam sempurna. (Lihat Minhah Al-‘Allamfii Syarh Bulugh Al-Maram, 2: 205)
+\n\n
+Membaca Doa Sholat Hajat\n
+Setelah membaca sholawat keatas Nabi Muhammad Shollallahu ‘alayhi wasallam sebanyak 100 kali, barulah membaca doa sholat hajat.
+\n\n
+Adapun doanya sebagaimana berikut:
+\n\n
+لَاِلَهَ اِلَّااللهُ الْحَكِيمُ الْكَرِيمُ سُبْحَانَ اللهِ رَبِّ الْعَرْشِ الْعَظِيمِ. الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ اَسْأَلُكَ مُوْجِبَاتِ رَحْمَتِكَ وَعَزَائِمَ مَغْفِرَتِكَ وَالْغَنِيمَةَ مِنْ كُلِّ بِرٍّوَالسَّلَامَةَ مِنْ كُلِّ اِثْمٍ لَا تَدَعْ لِى ذَنْبًا اِلَّا غَفَرْتَهُ وَلَا هَمًّا اِلَّافَرَّجْتَهُ وَلَاحَاجَةً اِلَّا هِيَ لَكَ رِضًااِلَّاقَضَيْتَهَا يَااَرْحَمَ الرَّحِمِينَ
+\n\n
+“Laa ilaaha illallahul hakiimul kariimu subhaanallahi rabbil ‘arsyil ‘adzhiim. Alhamdulillahi rabbil ‘aalamiin asaluka muujibaati rahmatika wa ‘azaaima maghfirotika wal ghoniimata min kulli birrin was-salaamata min kulli itsmin laa tada’ lii dzanban illa ghafartahu wa laa hamman illaa farrajtahu wa laa haajatan illaa hiya laka ridhon illaa qadhaytahaa yaa arhamar raahimiin”.
+\n\n
+Artinya : “Tiada ada Tuhan selain Allah yang Maha Penyantun dan Pemurah. Maha Suci Allah Tuhan pemelihara arsy yang Maha Agung. Segala puji bagi Allah Tuhan seru sekalian alam. KepadaMu-lah aku memohon sesuatu yang mewajibkan rahmatMu, dan sesuatu yang“Laa ilaaha illallahul hakiimul kariimu subhaanallahi rabbil ‘arsyil ‘adzhiim.
+\n\n
+Alhamdulillahi rabbil ‘aalamiin asaluka muujibaati rahmatika wa ‘azaaima maghfirotika wal ghoniimata min kulli birrin was-salaamata min kulli itsmin laa tada’ lii dzanban illa ghafartahu wa laa hamman illaa farrajtahu wa laa haajatan illaa hiya laka ridhon illaa qadhaytahaa yaa arhamar raahimiin”.
+\n\n
+
+
+            "/>
+        </LinearLayout>
+    </RelativeLayout>
+</ScrollView>

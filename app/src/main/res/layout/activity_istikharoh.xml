@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".istikharoh">
+
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="Sholat Istikharoh"
+                android:textColor="@color/hitam"
+                android:textSize="18dp"
+                android:gravity="center"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                tools:ignore="MissingConstraints" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="60dp">
+
+            <TextView
+                android:layout_width="340dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="9dp"
+                android:justificationMode="inter_word"
+                android:text="Shalat istikharah adalah shalat sunnah dalam rangka meminta petunjuk dan keberkahan kepada Allah. Bagaimana tata cara, niat shalat istikharah, doa, bacaan dan jawaban alias hasilnya? Berikut ini pembahasannya.\n\n
+Dalam Fiqih Empat Madzhab, Syaikh Abdurrahman Al Juzairi menjelaskan, disunnahkan bagi setiap muslim untuk melakukan dua rakaat shalat istikharah saat hendak menentukan sesuatu. Terutama saat bimbang atau ragu ketika menentukan pilihan.
+\n\n
+Niat Shalat Istkharah\n
+Semua perbuatan diawali dengan niat, termasuk juga ketika akan menjalankan shalat istikharah. Ketika mau melakukan shalat istikharah diawali dengan membaca niat shalat istikharah sebagai berikut.
+\n\n
+أُصَلِّيْ سُنَّةَ الاِسْتِخَارَةِ رَكْعَتَيْنِ لِلَّهِ تَعَالَى
+\n\n
+“Ushollii sunnatal istikhooroti rok’ataini lillaahi ta’aalaa”.\n
+Artinya : Aku berniat melaksanakan shalat sunnah istikharah dua rakaat karena Allah Ta’ala.”
+\n\n
+Tata Cara Shalat Istikharah\n
+Jadi masalah apa pun asalkan bukan perkara haram, disyariatkan untuk mengerjakan shalat sunnah ini dalam rangka minta petunjuk kepada Allah mana yang terbaik. Bukan hanya pilihan jodoh dan pekerjaan, meskipun dua hal ini yang paling populer.
+\n\n
+Berikut tata cara shalat istikharah\n
+Tata cara shalat istkharah atau rukun shalat istikaharah sama dengan shalat wajib atau shalat-shalat sunnah 2 rakaat lainnya. Berikut tata cara shalat istikharah yang terdiri dari 2 rakaat.
+\n
+Rukun Rakaat Pertama\n
+1. Membaca Niat Sholat Istikharah\n
+2. Membaca Takbiratul ihram, diikuti dengan bacaan doa iftitah\n
+3. Membaca surat Al Fatihah\n
+4. Membaca surat dari Al Qur’an, diutamakan Surat Al Kafirun\n
+5. Melakukan Ruku dengan tuma’minah\n
+6. Melakukan Itidal\n
+7. Melakukan Sujud pertama\n
+8. Duduk di antara dua sujud\n
+9. Melakukan Sujud kedua
+\n\n
+Berdiri lagi untuk menunaikan rakaat kedua\n
+Rukun Rakaat kedua\n
+1. Membaca surat Al Fatihah\n
+2. Membaca surat dari Al Qur’an, diutamakan Surat Al Ikhlas\n
+3. Melakukan Ruku\n
+4. Melakukan Itidal\n
+5. Melakukan Sujud pertama\n
+6. Duduk di antara dua sujud\n
+7. Melakukan Sujud kedua\n
+8. Duduk Tahiyat akhir\n
+9. Mengucapkan Salam
+\n\n
+Bacaan Doa Shalat Istikharah Arab
+\n\n
+اَللّٰهُمَّ اِنِّى اَسْتَخِيْرُكَ بِعِلْمِكَ وَاَسْتَقْدِرُكَ بِقُدْرَتِكَ وَاَسْئَلُكَ مِنْ فَضْلِكَ الْعَظِيْمِ. فَاِنَّكَ تَقْدِرُ وَلَآاَقْدِرُ وَلَآاَعْلَمُ وَاَنْتَ عَلاَّمُ الْغُيُوْبِ. اَللّٰهُمَّ اِنْ كُنْتَ تَعْلَمُ اَنَّ هَذَااْلاَمْرَ (…) خَيْرٌلِّىْ فِىْ دِيْنِىْ وَمَعَاشِىْ فَاقْدُرْهُ لِىْ وَيَسِّرْهُ لِىْ ثُمَّ بَارِكْ لِىْ فِيْهِ وَاِنْ كُنْتَ تَعْلَمُ اَنَّ هذَااْلاَمْرَشَرٌّلِّىْ فِىْ دِيْنِىْ وَمَعَاشِىْ وَعَاقِبَةِ اَمْرِىْ وَعَاجِلِهِ وَآجِلِهِ فَاصْرِفْهُ عَنِّىْ وَاصْرِفْنِيْ عَنْهُ وَاقْدُرْهُ لِيَ الْخَيْرَحَيْثُ كَانَ ثُمَّ رَضِّنِىْ بِه
+\n\nِ
+“Ya Allah, aku meminta petunjuk kebaikan-Mu dengan ilmu-Mu, aku memohon keputusan-Mu dengan qudrat-Mu dan aku meminta dengan karunia-Mu yang besar, karena sesungguhnya Engkau yang berkuasa sedangkan aku tida berkuasa. Engkau Yang Maha Mengetahui sedangkan aku tidak mengetahui dan Engkau Yang Maha Mengetahui segala yang gaib.\n\n“Ya Allah, sekiranya engkau ketahui bahwa (sebutkan Pilihan yang dihadapi) baik untukku dalam agamaku, kehidupanku, dan akhir dari perkaraku ini, maka takdirkanlah ia untukku, mudahkanlah ia, lalu berkahilah aku padanya.”\n\n
+“Ya Allah, dan sekiranya engkau mengetahui buruk bagiku dalam agamaku, kehidupanku, dan akhir dari perkaraku ini, maka hindarkanlah aku darinya, kemudian takdirkanlah untukku kebaikan bagaimanapun adanya, lalu berilah aku keridhaan dengannya.” (HR. AhmadDan Bukhari).\n\n
+
+"/>
+        </LinearLayout>
+    </RelativeLayout>
+
+</ScrollView>

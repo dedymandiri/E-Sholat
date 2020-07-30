@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <application>
+        <activity android:name="com.example.e_sholat.tarawih"></activity>
+        <activity android:name="com.example.e_sholat.hajat" />
+        <activity android:name="com.example.e_sholat.jumat" />
+        <activity android:name="com.example.e_sholat.istikharoh" />
+    </application>
+
+</manifest>

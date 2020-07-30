@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/putih"
+    tools:context=".tarawih">
+
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="Sholat Tarawih"
+                android:textColor="@color/hitam"
+                android:textSize="18dp"
+                android:gravity="center"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                tools:ignore="MissingConstraints" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="60dp">
+
+            <TextView
+                android:layout_width="340dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="9dp"
+                android:justificationMode="inter_word"
+                android:text="Niat Sholat Tarawih \n
+Sholat tarawih adalah ibadah sunnah yang hukumnya sunnah muakkad. Sholat tarawih bisa dilakukan sendirian atau cara munfarid di rumah. Untuk kalian yang ingin mengerjakan sholat tarawih sendiri di rumah, baca niat berikut:
+\n\nUSHOLLII SUNNATAT-TAROOWIIHI ROK'ATAINI MUSTAQBILAL QIBLATI LILLAAHI TA'ALAA.
+\n\n
+Artinya : Saya niat sholat sunnah tarawih dua raka'at menghadap kiblat karena Allah Ta'ala.
+\n\nTata Cara Sholat Tarawih\nUmumnya sholat tarawih sendiri di rumah cukup dikerjakan sebanyak 11 rakaat yang terdiri dari 8 rakaat sholat tarawih dan 3 rakaat sholat witir.
+
+Idealnya sholat tarawih dikerjakan sebanyak 2 rakaat dengan 1 kali salam seperti sholat sunnah lainnya. Kerjakan sholat tarawih 8 rakaat dengan setiap 2 rakaat diakhiri salam seperti biasa.
+
+Setelah itu disambung dengan sholat witir yang dikerjakan 3 rakaat diakhiri 1 kali salam. Untuk tata cara sholat tarawih sendiri di rumah sebenarnya sama dengan cara mengerjakan sholat fardhu, termasuk gerakan maupun bacaannya. Hal yang membedakan tata cara sholat tarawih dari sholat fardhu terletak pada bacaan niatnya saja.
+\n\n
+Namun agar lebih jelas, berikut tata cara sholat tarawih yang bisa kalian lakukan:
+\n
+1. Takbiratul Ihram
+\n
+2. Membaca Doa Iftitah
+\n
+3. Membaca Surat Al-Fatihah
+\n
+4. Membaca Surat Alquran
+\n
+5. Ruku'
+\n
+6. I'tidal
+\n
+7. Sujud
+\n
+8. Iftirasy (Duduk di Antara Dua Sujud)
+\n
+9. Sujud Kedua
+\n\n
+Berdiri untuk mengerjakan rakaat yang kedua.
+\n
+10. Membaca Surat Al-Fatihah
+\n
+11. Membaca Surat Alquran
+\n
+12. Ruku'
+\n
+13. I'tidal
+\n
+14. Sujud
+\n
+15. Iftirasy (Duduk di Antara Dua Sujud)
+\n
+16. Sujud Kedua
+\n
+17. Tasyahhud Akhir
+\n
+18. Salam
+\n\n
+Tata Cara Sholat Witir\n
+Jumlah rakaat sholat tarawih yang umum dikerjakan antara 8 rakaat sholat tarawih ditambah 3 rakaat sholat witir. Namun ada juga yang mengerjakan sholat tarawih 20 rakaat ditambah dengan 3 rakaat sholat witir.
+
+Meski begitu, masing-masing dikerjakan setiap 2 rakaat dan diakhiri dengan salam. Sholat tarawih sebaiknya ditutup dengan sholat witir yang jumlah rakaatnya ganjil. Niat sholat witir bervariasi, umumnya 1 rakaat atau 3 rakaat.
+\n\n
+Niat Sholat Witir 3 Rakaat 1 Kali Salam\n
+Berikut ini bacaan niat sholat witir dengan 3 rakaat yang diikuti dengan 1 kali salam.
+\n\n
+USHALLII SUNNATAL WITRI TSALAASA ROKA'AATIN MUSTAQBILAL QIBLATI ADAA'AN LILLAAHI TA'ALAA.
+\n\n
+Artinya : Saya berniat sholat witir tiga rakaat menghadap kiblat karena Allah Ta'alaa.
+\n\n
+Berikut doa sholat tarawih.
+\n
+1. Doa yang dibaca antara jeda rakaat sholat tarawih
+\n\n
+اَللّٰهُمَّ إِنَّكَ عَفُوٌ كَرِيْم تُحِبُّ الْعَفْوَ فَاعْفُ عَنَّا يَاكَرِيْم
+\n\n
+Allohumma Innaka Afuwwun Kariim Tukhibbul Afwa Fa'fuanni
+\n\n
+Artinya: Ya Allah sesungguhnya Engkau Maha Pemaaf yang menyukai permintaan maaf, maafkanlah aku yang Maha Mulia.
+\n\n
+Bacaan Doa Sholat Tarawih dan Doa Kamilin di Bulan RamadanFoto: ANTARA FOTO/Yulius Satria Wijaya
+\n\n
+اَللّٰهُمَّ إِنَّا نَسْئَلُكَ رِضَاكَ وَالْجَنَّةَ وَنَعُوْذُبِكَ مِنْ سَخَطِكَ وَالنَّارِ
+\n\n
+Allohumma inna Nas'aluka Ridhoka wal Jannah wa Na'udzhubika min Sakhotika wannaar
+\n\n
+Artinya: Ya Allah, sesungguhnya kami memohon keridhoan-Mu dan surga, dan kami berlindung dari murka-Mu dan siksa neraka.
+\n\n
+Doa ini biasanya dibaca setiap selesai dua salam, kata Pengasuh Taman Belajar Al-Afifiyah Kota Bandung KH Wahyul Afif Al-Ghafiqi, kepada CNNIndonesia.com.
+\n\n
+2. Doa Kamilin\n
+Setelah selesai delapan atau 20 rakaat salat Tarawih, maka dianjurkan membaca doa Kamilin. Doa Kamilin berisi harapan kesempurnaan iman.
+Doa yang isinya berupa permohonan agar dianugerahi kesempurnaan iman, sangat luar biasa kandungan doa ini, ucap Wahyul.
+
+Bacaan Doa Sholat Tarawih dan Doa Kamilin di Bulan RamadanFoto: Istockphoto/Sujay_Govindaraj
+\n\n
+
+erikut doa Kamilin setelah sholat tarawih, dikutip dari situs NU.
+\n\n
+اَللهُمَّ اجْعَلْنَا بِالْإِيْمَانِ كَامِلِيْنَ. وَلِلْفَرَائِضِ مُؤَدِّيْنَ. وَلِلصَّلاَةِ حَافِظِيْنَ. وَلِلزَّكَاةِ فَاعِلِيْنَ. وَلِمَا عِنْدَكَ طَالِبِيْنَ. وَلِعَفْوِكَ رَاجِيْنَ. وَبِالْهُدَى مُتَمَسِّكِيْنَ. وَعَنِ الَّلغْوِ مُعْرِضِيْنَ. وَفِى الدُّنْيَا زَاهِدِيْنَ. وَفِى اْلآخِرَةِ رَاغِبِيْنَ. وَبَالْقَضَاءِ رَاضِيْنَ. وَلِلنَّعْمَاءِ شَاكِرِيْنَ. وَعَلَى الْبَلاَءِ صَابِرِيْنَ. وَتَحْتَ لِوَاءِ مُحَمَّدٍ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يَوْمَ الْقِيَامَةِ سَائِرِيْنَ وَعَلَى الْحَوْضِ وَارِدِيْنَ. وَإِلَى الْجَنَّةِ دَاخِلِيْنَ. وَمِنَ النَّارِ نَاجِيْنَ. وَعَلى سَرِيْرِالْكَرَامَةِ قَاعِدِيْنَ. وَبِحُوْرٍعِيْنٍ مُتَزَوِّجِيْنَ. وَمِنْ سُنْدُسٍ وَاِسْتَبْرَقٍ وَدِيْبَاجٍ مُتَلَبِّسِيْنَ. وَمِنْ طَعَامِ الْجَنَّةِ آكِلِيْنَ. وَمِنْ لَبَنٍ وَعَسَلٍ مُصَفًّى شَارِبِيْنَ. بِأَكْوَابٍ وَّأَبَارِيْقَ وَكَأْسٍ مِّنْ مَعِيْن. مَعَ الَّذِيْنَ أَنْعَمْتَ عَلَيْهِمْ مِنَ النَّبِيِّيْنَ وَالصِّدِّيْقِيْنَ وَالشُّهَدَآءِ وَالصَّالِحِيْنَ وَحَسُنَ أُولئِكَ رَفِيْقًا. ذلِكَ الْفَضْلُ مِنَ اللهِ وَكَفَى بِاللهِ عَلِيْمًا. اَللهُمَّ اجْعَلْنَا فِى هذِهِ اللَّيْلَةِ الشَّهْرِالشَّرِيْفَةِ الْمُبَارَكَةِ مِنَ السُّعَدَاءِ الْمَقْبُوْلِيْنَ. وَلاَتَجْعَلْنَا مِنَ اْلأَشْقِيَاءِ الْمَرْدُوْدِيْنَ. وَصَلَّى اللهُ عَلَى سَيِّدِنَا مُحَمَّدٍ وَآلِه وَصَحْبِه أَجْمَعِيْنَ. بِرَحْمَتِكَ يَاأَرْحَمَ الرَّاحِمِيْنَ وَالْحَمْدُ لِلّهِ رَبِّ الْعَالَمِيْنَ
+\n\n
+Allâhummaj'alnaa bil iimaani kaamiliin. Wa lil faraaidli muaddiin. Wa lish-shlaati haafidhiin. Wa liz-zakaati faa'iliin. Wa lima 'indaka thaalibiin. Wa li 'afwika raajiin. Wa bil-hudaa mutamassikiin. Wa 'anil laghwi mu'ridliin.
+\n\n
+Wa fid-dunyaa zaahdiin. Wa fil 'aakhirati raaghibiin. Wa bil-qadlaa'I raadliin. Wa lin na'maa'I syaakiriin. Wa 'alal balaa'i shaabiriin. Wa tahta liwaa'i muhammadin shallallaahu 'alaihi wasallam yaumal qiyaamati saa'iriina wa alal haudli waaridiin.
+\n\n
+Wa ilal jannati daakhiliin. Wa minan naari naajiin. Wa 'alaa sariirl karaamati qaa'idiin. Wa bi huurun 'in mutazawwijiin. Wa min sundusin wa istabraqiin wadiibaajin mutalabbisiin. Wa min tha'aamil jannati aakiliin.
+\n\n
+Wa min labanin wa 'asalin mushaffan syaaribiin. Bi akwaabin wa abaariiqa wa ka'sin min ma'iin. Ma'al ladziina an'amta 'alaihim minan nabiyyiina wash shiddiiqiina wasy syuhadaa'i wash shaalihiina wa hasuna ulaa'ika rafiiqan. Daalikal fadl-lu minallaahi wa kafaa billaahi 'aliiman.
+\n\n
+Allaahummaj'alnaa fii haadzihil lailatisy syahrisy syariifail mubaarakah minas su'adaa'il maqbuuliin. Wa laa taj'alnaa minal asyqiyaa'il marduudiin. Wa shallallaahu 'alaa sayyidinaa muhammadin wa âlihi wa shahbihi ajma'iin. Birahmatika yaa arhamar raahimiin wal hamdulillaahi rabbil 'aalamiin.
+\n\n
+
+Artinya : Ya Allah, jadikanlah kami orang-orang yang sempurna imannya, yang memenuhi kewajiban-kewajiban, yang memelihara salat, yang mengeluarkan zakat, yang mencari apa yang ada di sisi-Mu, yang mengharapkan ampunan-Mu, yang berpegang pada petunjuk, yang berpaling dari kebatilan, yang zuhud di dunia, yang menyenangi akhirat, yang rida dengan qadla-Mu (ketentuan-Mu), yang mensyukuri nikmat, yang sabar atas segala musibah, yang berada di bawah panji-panji junjungan kami, Nabi Muhammad, pada hari kiamat, yang mengunjungi telaga (Nabi Muhammad), yang masuk ke dalam surga, yang selamat dari api neraka, yang duduk di atas ranjang kemuliaan, yang menikah dengan para bidadari, yang mengenakan berbagai sutra ,yang makan makanan surga, yang minum susu dan madu murni dengan gelas, cangkir, dan cawan bersama orang-orang yang Engkau beri nikmat dari kalangan para nabi, shiddiqin, syuhada dan orang-orang shalih.
+\n\n
+Mereka itulah teman yang terbaik. Itulah keutamaan (anugerah) dari Allah, dan cukuplah bahwa Allah Maha Mengetahui. Ya Allah, jadikanlah kami pada malam yang mulia dan diberkahi ini termasuk orang-orang yang bahagia dan diterima amalnya, dan janganlah Engkau jadikan kami tergolong orang-orang yang celaka dan ditolak amalnya
+\n\n
+
+            "/>
+        </LinearLayout>
+    </RelativeLayout>
+
+</ScrollView>

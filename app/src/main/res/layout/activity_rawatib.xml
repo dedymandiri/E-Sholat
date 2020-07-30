@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/putih"
+    tools:context=".rawatib">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="Sholat Rawatib"
+                android:textColor="@color/hitam"
+                android:textSize="18dp"
+                android:gravity="center"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                tools:ignore="MissingConstraints" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="60dp">
+
+            <TextView
+                android:layout_width="340dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="9dp"
+                android:justificationMode="inter_word"
+                android:text="Shalat sunnah rawatib adalah?
+ Sebelum membahas niat shalat sunnah rawatib, mari kita bahas apa itu shalat sunnah rawatib. Shalat sunnah rawatib adalah shalat sunnah yang dikerjakan sebelum dan sesudah shalat fardhu, atau lebih kita kenal dengan shalat lima waktu.
+\n\n
+Shalat sunnah rawatib yang dikerjakan sebelum shalat fardhu disebut dengan shalat sunnah Qobliyah. Sedangkan shalat sunnah Rawatib yang dikerjakan setelah shalat fardhu disebut dengan shalat sunnah Ba'diyah.
+\n\n
+Terdapat dua shalat sunnah rawatib sesuai dengan anjuran ditegakkannya, yakni Shalat sunnah rawatib muakkad serta ghoiru muakkad. Tentunya kedua amalan sunnah ini mempunyai niat shalat sunnah rawatib yang berbeda.
+\n\n
+Shalat Sunnah Rawatib Muakkad\n
+Shalat sunnah rawatib mu'akkad ini bersifat sangat dianjurkan untuk dikerjakan. Berikut jumlah shalat sunnah rawatib mu'akkad:
+\n\n
+2 rakaat sebelum shalat subuh\n
+2 atau 4 rakaat sebelum shalat zuhur\n
+2 atau 4 rakaat sesudah shalat zuhur\n
+2 rakaat sesudah maghrib\n
+2 rakaat sesudah isya\n
+Penjelasan soal jumlah rakaat shalat sunnah rawatib ini disebutkan dalam hadits yang diriwayatkan oleh At-Tarmidzi dan An-Nasa'i.
+\n\n
+Dari Aisyah radiyallahu'anha, ia berkata: Rasulullah shallallahu‘alaihi wa sallam bersabda, Barang siapa yang tidak meninggalkan dua belas (12) rakaat pada shalat sunnah rawatib, maka Allah akan bangunkan baginya rumah di surga, (yaitu): empat rakaat sebelum zuhur, dan dua rakaat sesudahnya, dan dua rakaat sesudah maghrib, dan dua rakaat sesudah isya, dan dua rakaat sebelum subuh. (HR. At-Tarmidzi no. 414, An-Nasa'i no. 1794)
+\n\n
+Shalat Sunnah Rawatib Ghoiru Mu'akkad\n
+Shalat sunnah rawatib ghoiru mu'akkad ini adalah jenis shalat sunnah rawatib yang kurang ditekankan. Berikut adalah jumlah shalat sunnah ghoiru mu'akkad:
+\n\n
+2 atau 4 rakaat sebelum shalat ashar (jika dikerjakan 4 rakaat, dikerjakan dengan 2 kali salam)
+2 rakaat sebelum maghrib
+2 rakaat sebelum isya
+Mengenai shalat sunnah rawatib yang dikerjakan 4 rakaat harus dengan 2 kali salam didasarkan pada keterangan berikut ini:
+\n\n
+As-Syaikh Muhammad bin Utsaimin rahimahullah berkata: Shalat sunnah rawatib terdapat di dalamnya salam. Seseorang yang shalat rawatib empat rakaat maka dengan dua salam bukan satu salam, karena sesungguhnya nabi bersabda: Shalat (sunnah) di waktu malam dan siang dikerjakan dua rakaat salam dua rakaat salam. (Majmu' Fatawa As-Syaikh Al-Utsaimin 14/288)
+\n\n
+Waktu pelaksanaan shalat sunnah rawatib\n
+Tentang waktu pelaksanaan shalat sunnah rawatib ini telah dijelaskan dalam sebuah hadits di bawah ini.
+\n\n
+Ibnu Qudamah berkata: Setiap sunnah rawatib qobliyah maka waktunya dimulai dari masuknya waktu shalat fardhu hingga shalat fardhu dikerjakan, dan shalat rawatib ba’diyah maka waktunya dimulai dari selesainya shalat fardhu hingga berakhirnya waktu shalat fardhu tersebut. (Al-Mughni 2/544)
+\n\n
+Niat Shalat Sunnah Rawatib\n
+Bacaan niat shalat sunnah rawatib pada dasarnya hampir sama dengan bacaan shalat fardhu. Pada niat shalat sunnah rawatib, kita tinggal menambahkan Qobliyatan Lillahi Ta'ala jika dikerjakan sebelum shalat fardhu di akhir niat. Atau menggunakan niat shalat sunnah rawatib dengan tambahan bacaan, Ba'diyatan Lillahi Ta'ala jika dikerjakan sesudah shalat fardhu.
+\n\n
+Jadi, jika Anda ingin mengucapkan niat shalat sunnah rawatib sebelum shalat subuh, maka bacaannya menjadi:
+\n\n
+USHALLII SUNNATASH SHUBHI RAKATAINI QABLIY-YATAN LILLAAHI TAAALAA.
+\n\n
+Artinya: Aku (niat) shalat sunat qabliyyah subuh 2 rakaat, karena Allah Taala.
+\n\n
+Kemudian, jika Anda ingin mengucapkan niat shalat sunnah rawatib setelah shalat isya, maka bacaannya menjadi:
+\n\n
+USHALLII SUNNATAL ISYAAI RAKATAINI BADIY-YATAN LILLAAHI TAAALAA.
+\n\n
+Artinya: Aku (niat) shalat sunat badiyyah isya 2 rakaat, karena Allah Taala.
+\n\n
+Sebenarnya tentang niat shalat sunnah rawatib ini tidak perlu dilafalkan sampai bersuara, tapi cukup diucapkan dalam hati. Pelafalan niat shalat sunnah rawatib ini mungkin bertujuan untuk memantapkan niat yang sudah ada di dalam hati.
+\n\n
+Keutamaan Shalat Sunnah Rawatib\n
+Kita sudah mengulas soal niat shalat sunnah rawatib dan waktu pelaksanaannya, sekarang mari kita masuk soal keutamaannya. Keutamaan dari shalat sunnah rawatib ini sudah banyak dijelaskan dalam hadits hadits.
+\n\n
+Berikut adalah beberapa keutamaan shalat sunnah rawatib menurut hadits.\n
+At-Tarmidzi dan An-Nasai meriwayatkan hadits yang mengatakan bahwa, dari Aisyah radiyallahuanha, ia berkata: Rasulullah shallallahualaihi wa sallam bersabda, Barangsiapa tidak meninggalkan dua belas (12) rakaat pada shalat sunnah rawatib, maka Allah akan bangunkan baginya rumah di surga... (HR. At-Tarmidzi no. 414, An-Nasai no. 1794)
+\n\nAisyah radhiyallahu anha telah meriwayatkan sebuah hadits tentang shalat sunnah rawatib sebelum (qobliyah) shubuh, dari Nabi shallallahu alaihi wasallam, beliau bersabda, Dua rakaat sebelum shubuh lebih baik dari dunia dan seisinya. Dalam riwayat yang lain, Dua rakaat sebelum shubuh lebih aku cintai daripada dunia seisinya (HR. Muslim no. 725)
+Ummu Habibah radhiyallahuanha telah meriwayatkan tentang keutamaan rawatib dzuhur. Dia berkata, saya mendengar Rasulullah shallallahualaihi wa sallam bersabda: Barangsiapa yang menjaga (shalat) empat rakaat sebelum zuhur dan empat rakaat sesudahnya, Allah haramkan baginya api neraka. (HR. Ahmad 6/325, Abu Dawud no. 1269, At-Tarmidzi no. 428, An-Nasai no. 1814, Ibnu Majah no. 1160)
+\n\n
+
+            "/>
+        </LinearLayout>
+    </RelativeLayout>
+</ScrollView>

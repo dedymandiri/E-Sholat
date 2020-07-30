@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".subuh">
+
+
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="Sholat Subuh"
+                android:textColor="@color/hitam"
+                android:textSize="18dp"
+                android:gravity="center"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                tools:ignore="MissingConstraints" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="60dp">
+
+            <TextView
+                android:layout_width="340dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="9dp"
+                android:justificationMode="inter_word"
+                android:text="Shalat subuh merupakan shalat yang jumlah raka'atnya paling sedikit yaitu hanya ada 2 (dua) raka'at dalam shalat subuh, dengan mengeraskan bacaannya dikedua raka'at tersebut dan duduk tasyahhud satu kali pada raka'at terakhir. Adapun niat shalat shubuh arab, latin dan artinya adalah sebagai berikut:
+\n\n
+اُصَلّى فَرْضَ الصُّبْحِ رَكْعَتَيْنِ مُسْتَقْبِلَ الْقِبْلَةِ اَدَاءً مَأْمُوْمًا ِللهِ تَعَالَى
+\n\n
+USHOLLII FARDHOSH SHUBHI ROK'ATAINI MUSTAQBILAL QIBLATI ADAA-AN MA'MUUMAN LILLAAHI TA'AALA.\n
+Artinya : Aku berniat shalat fardu Shubuh dua raka'at menghadap kiblat sebagai ma'mum karena Allah Ta'ala\n
+\n\n
+Perhatikan :\n
+*Adaa-an : Bila shalat sendiri\n
+*Imaaman : Bila Shalat sebagai imam\n
+*Ma'muuman : Bila shalat sebagai makmum\n
+\n\n
+Rakaat Pertama\n
+1. Niat \n
+2. Takbiratul ihram (mengangkat tangan sambil mengucapkan Allahu Akbar)\n
+3. Membaca doa Iftitah\n
+4. Membaca al Fatihah\n
+5. Membaca ayat al Quran\n
+6. Ruku' dengan tumakninah lalu membaca:
+\n\n
+سُبْحَانَ رَبِّىَ الْعَظِيمِ وَبِحَمْدِهِ
+\n\n
+subhana rabbiyal azimi wabi hamdih\n
+Artinya: Maha Suci Rabbku yang Maha Agung dan segala puji bagi-Nya.\n
+7. I'tidal dengan tumakninah lalu membaca:
+\n\n
+سَمِعَ اللهُ لِمَنْ حَمِدَهُ
+\n\n
+Sami Allahu liman hamidah\n
+Artinya: Allah mendengar siapa saja yang memuji-Nya.\n
+\n\n
+رَبَّنَا وَلَكَ الْحَمْدُ
+\n\n
+Rabbana walakal hamdu\n
+Artinya: Rabb kami, milik-Mu segala pujian\n
+8. Sujud dengan tumakninah lalu membaca :
+\n\n
+سُبْحَانَ رَبِّىَ الْأَعْلَى وَبِحَمْدِهِ
+\n\n
+“Subhaana robbiyal ‘a’la wabihamdih”\n
+Artinya, “Mahasuci Tuhanku yang Mahatinggi dan segala puji bagi-Nya.“\n
+9. Duduk di antara dua sujud lalu membaca :
+\n\n
+رَبِّ اغْفِرْ لِيْ وَارْحَمْنِيْ وَاجْبُرْنِيْ وَارْفَعْنِيْ وَارْزُقْنِيْ وَاهْدِنِيْ وَعَافِنِيْ وَاعْفُ عَنِّيْ
+\n\n
+“Rabbighfirlii warhamnii wajburnii warfa’nii warzuqnii wahdinii wa ‘aafinii wa’fu ‘annii.”\n
+Artinya: “Ya Allah, ampunilah aku, kasihanilah aku, cukupilah aku, angkatlah derajatku, berikanlah rejeki kepadaku, berikanlah petunjuk kepadaku, berilah kesehatan kepadaku dan ampunilah aku.”\n
+10. Sujud lalu membaca
+\n\n
+سُبْحَانَ رَبِّىَ الْأَعْلَى وَبِحَمْدِهِ
+\n\n
+“Subhaana robbiyal ‘a’la wabihamdih”\n
+Artinya, “Mahasuci Tuhanku yang Mahatinggi dan segala puji bagi-Nya.“\n
+11. Berdiri lagi
+\n\n
+Rakaat Kedua\n
+1. Membaca al Fatihah\n
+2. Membaca ayat al Quran\n
+3. Ruku' dengan tumakninah lalu membaca :
+\n\n
+سُبْحَانَ رَبِّىَ الْعَظِيمِ وَبِحَمْدِهِ
+\n\n
+subhana rabbiyal azimi wabi hamdih\n
+Artinya: Maha Suci Rabbku yang Maha Agung dan segala puji bagi-Nya.\n
+4. I'tidal dengan tumakninah lalu membaca :
+\n\n
+سَمِعَ اللهُ لِمَنْ حَمِدَهُ
+\n\n
+Sami Allahu liman hamidah\n
+Artinya: Allah mendengar siapa saja yang memuji-Nya.
+\n\n
+رَبَّنَا وَلَكَ الْحَمْدُ
+\n\n
+Rabbana walakal hamdu\n
+Artinya: Rabb kami, milik-Mu segala pujian\n
+5. Membaca do'a qunut
+\n\n
+اَللّهُمَّ اهْدِنِىْ فِيْمَنْ هَدَيْتَ \n
+وَعَافِنِى فِيْمَنْ عَافَيْتَ \n
+وَتَوَلَّنِىْ فِيْمَنْ تَوَلَّيْتَ \n
+وَبَارِكْ لِىْ فِيْمَا اَعْطَيْتَ \n
+وَقِنِيْ شَرَّمَا قََضَيْتَ،\n
+\n\n
+فَاِ نَّكَ تَقْضِىْ وَلاَ يُقْضَى عَلَيْكَ \n
+وَاِ نَّهُ لاَ يَذِلُّ مَنْ وَالَيْتَ \n
+وَلاَ يَعِزُّ مَنْ عَادَيْتَ \n
+تَبَارَكْتَ رَبَّنَا وَتَعَالَيْتَ \n
+فَلَكَ الْحَمْدُ عَلَى مَا قَضَيْتَ \n
+وَاَسْتَغْفِرُكَ وَاَتُوْبُ اِلَيْكَ \n
+\n\n
+وَصَلَّى اللهُ عَلَى سَيِّدَنَا مُحَمَّدٍ النَّبِيِّ اْلاُمِّيِّ وَعَلَى آلِهِ وَصَحْبِهِ وَسَلَّمَ
+\n\n
+Bacaan Doa Qunut (Latin)\n
+Allah hummah dinii fiiman hadait.\n
+Wa'aa finii fiiman 'aafait.\n
+Watawallanii fiiman tawal-laiit.\n
+Wabaariklii fiimaa a'thait.\n
+Waqinii syarramaa qadhait.\n
+Fainnaka taqdhii walaa yuqdha 'alaik.\n
+Wainnahu laayadzilu man walait. \n
+Walaa ya'izzu man 'aadait.\n
+Tabaa rakta rabbanaa wata'aalait.\n
+Falakalhamdu 'alaa maaqadhait.\n
+Astaghfiruka wa'atuubu ilaik.\n
+Wasallallahu 'ala Sayyidina Muhammadin nabiyyil ummiyyi. Wa'alaa aalihi washahbihi Wasallam.
+\n\n
+6 Sujud dengan tumakninah lalu membaca
+\n\n
+سُبْحَانَ رَبِّىَ الْأَعْلَى وَبِحَمْدِهِ
+\n\n
+“Subhaana robbiyal ‘a’la wabihamdih”\n
+Artinya, “Mahasuci Tuhanku yang Mahatinggi dan segala puji bagi-Nya.“\n
+7. Duduk di antara dua sujud lalu membaca:
+\n\n
+رَبِّ اغْفِرْ لِيْ وَارْحَمْنِيْ وَاجْبُرْنِيْ وَارْفَعْنِيْ وَارْزُقْنِيْ وَاهْدِنِيْ وَعَافِنِيْ وَاعْفُ عَنِّيْ
+\n\n
+“Rabbighfirlii warhamnii wajburnii warfa’nii warzuqnii wahdinii wa ‘aafinii wa’fu ‘annii.”\n
+Artinya:, “Ya Allah, ampunilah aku, kasihanilah aku, cukupilah aku, angkatlah derajatku, berikanlah rejeki kepadaku, berikanlah petunjuk kepadaku, berilah kesehatan kepadaku dan ampunilah aku.”\n
+8. Sujud lalu membaca
+\n\n
+سُبْحَانَ رَبِّىَ الْأَعْلَى وَبِحَمْدِهِ
+\n\n
+“Subhaana robbiyal ‘a’la wabihamdih”\n
+Artinya, “Mahasuci Tuhanku yang Mahatinggi dan segala puji bagi-Nya.“
+\n\n
+9. Berikut bacaan Tasyahud Akhir:
+\n\n
+التَّحِيَّاتُ الْمُبَارَكَاتُ الصَّلَوَاتُ الطَّيِّبَاتُ لِلَّهِ السَّلاَمُ عَلَيْكَ أَيُّهَا النَّبِىُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ السَّلاَمُ عَلَيْنَا وَعَلَى عِبَادِ اللَّهِ الصَّالِحِينَ , أَشْهَدُ أَنْ لاَ إِلَهَ إِلاَّ اللَّهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ , اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ ، وَعَلَى آلِ مُحَمَّدٍ ، كَمَا صَلَّيْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ ، إِنَّكَ حَمِيدٌ مَجِيدٌ ، اللَّهُمَّ بَارِكْ عَلَى مُحَمَّدٍ ، وَعَلَى آلِ مُحَمَّدٍ ، كَمَا بَارَكْتَ عَلَى إِبْرَاهِيمَ ، وَعَلَى آلِ إِبْرَاهِيمَ ، إِنَّكَ حَمِيدٌ مَجِيدٌ
+\n\n
+“At_Tahiyyaatul Mubaarakaatush Shalawaatuth Thoyyibaatulillaah. As_Salaamu’Alaika Ayyuhan Nabiyyu Wa Rahmatullaahi Wabarakaatuh,
+Assalaamu’Alaina Wa’Alaa Ibaadillaahishaalihiin. Asyhaduallaa Ilaaha Illallaah, Wa Asyhadu Anna Muhammad Rasuulullaah. Allaahumma Shalli’Alaa Muhammad,
+Wa’Alaa Aali Muhammad. Kamaa Shallaita Alaa Ibraahiim Wa Alaa Aali Ibraahiim. Wabaarik’Alaa Muhammad Wa Alaa Aali Muhammad. Kamaa Baarakta Alaa Ibraahiim Wa Alaa Aali Ibraahiim,
+Fil’Aalamiina Innaka Hamiidum Majiid.”\n
+\n
+Artinya: “Segala kehormatan, dan keberkahan, kebahagiaan dan kebaikan itu punya Allah.
+Keselamatan atas Nabi Muhammad, juga rahmat dan berkahnya.
+Keselamatan dicurahkan kepada kami dan atas seluruh hamba Allah yang sholeh.
+Aku bersaksi tidak ada sesembahan yang berhak disembah kecuali Allah.
+Dan aku bersaksi bahwa Nabi Muhammad adalah utusan Allah.
+Ya Allah, limpahilah rahmat atas keluarga Nabi Muhammad.
+Seperti rahmat yang Engkau berikan kepada Nabi Ibrahim dan keluarganya.
+Dan limpahilah berkah atas Nabi Muhammad beserta para keluarganya.
+Seperti berkah yang Engkau berikan kepada Nabi Ibrahim dan keluarganya.
+Engkaulah Tuhan yang sangat terpuji lagi sangat mulia diseluruh alam.”
+\n
+"/>
+        </LinearLayout>
+    </RelativeLayout>
+
+
+
+</ScrollView>

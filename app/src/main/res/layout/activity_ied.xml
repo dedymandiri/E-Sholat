@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ied">
+
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="Sholat Eid"
+                android:textColor="@color/hitam"
+                android:textSize="18dp"
+                android:gravity="center"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                tools:ignore="MissingConstraints" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="60dp">
+
+            <TextView
+                android:layout_width="340dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="9dp"
+                android:justificationMode="inter_word"
+                android:text="Hukum Shalat ‘Ied
+                \n
+Menurut pendapat yang lebih kuat, hukum shalat ‘ied adalah wajib bagi setiap muslim, baik laki-laki maupun perempuan yang dalam keadaan mukim[1]. Dalil dari hal ini adalah hadits dari Ummu ‘Athiyah, beliau berkata,
+\n\n
+أَمَرَنَا – تَعْنِى النَّبِىَّ -صلى الله عليه وسلم- – أَنْ نُخْرِجَ فِى الْعِيدَيْنِ الْعَوَاتِقَ وَذَوَاتِ الْخُدُورِ وَأَمَرَ الْحُيَّضَ أَنْ يَعْتَزِلْنَ مُصَلَّى الْمُسْلِمِينَ.
+\n\n
+“Nabi shallallahu ‘alaihi wa sallam memerintahkan kepada kami pada saat shalat ‘ied (Idul Fithri ataupun Idul Adha) agar mengeluarkan para gadis (yang baru beanjak dewasa) dan wanita yang dipingit, begitu pula wanita yang sedang haidh. Namun beliau memerintahkan pada wanita yang sedang haidh untuk menjauhi tempat shalat.”[2]
+Di antara alasan wajibnya shalat ‘ied dikemukakan oleh Shidiq Hasan Khon (murid Asy Syaukani).[3]
+\n\n
+Pertama: Rasulullah shallallahu ‘alaihi wa sallam terus menerus melakukannya.
+\n
+Kedua: Nabi shallallahu ‘alaihi wa sallam memerintah kaum muslimin untuk keluar rumah untuk menunaikan shalat ‘ied. Perintah untuk keluar rumah menunjukkan perintah untuk melaksanakan shalat ‘ied itu sendiri bagi orang yang tidak punya udzur. Di sini dikatakan wajib karena keluar rumah merupakan wasilah (jalan) menuju shalat. Jika wasilahnya saja diwajibkan, maka tujuannya (yaitu shalat) otomatis juga wajib.
+\n
+Ketiga: Ada perintah dalam Al Qur’an yang menunjukkan wajibnya shalat ‘ied yaitu firman Allah Ta’ala,
+\n\n
+فَصَلِّ لِرَبِّكَ وَانْحَرْ
+\n\n
+“Dirikanlah shalat dan berqurbanlah (an nahr).” (QS. Al Kautsar: 2). Maksud ayat ini adalah perintah untuk melaksanakan shalat ‘ied.
+\n
+Keempat: Shalat jum’at menjadi gugur bagi orang yang telah melaksanakan shalat ‘ied jika kedua shalat tersebut bertemu pada hari ‘ied. Padahal sesuatu yang wajib hanya boleh digugurkan dengan yang wajib pula. Jika shalat jum’at itu wajib, demikian halnya dengan shalat ‘ied. –Demikian penjelasan Shidiq Hasan Khon yang kami sarikan-.
+Syaikhul Islam Ibnu Taimiyah rahimahullah mengatakan, “Pendapat yang menyatakan bahwa hukum shalat ‘ied adalah wajib bagi setiap muslim lebih kuat daripada yang menyatakan bahwa hukumnya adalah fardhu kifayah (wajib bagi sebagian orang saja). Adapun pendapat yang mengatakan bahwa hukum shalat ‘ied adalah sunnah (dianjurkan, bukan wajib), ini adalah pendapat yang lemah. Karena Nabi shallallahu ‘alaihi wa sallam sendiri memerintahkan untuk melakukan shalat ini. Lalu beliau sendiri dan para khulafaur rosyidin (Abu Bakr, ‘Umar, ‘Utsman, dan ‘Ali, -pen), begitu pula kaum muslimin setelah mereka terus menerus melakukan shalat ‘ied. Dan tidak dikenal sama sekali kalau ada di satu negeri Islam ada yang meninggalkan shalat ‘ied. Shalat ‘ied adalah salah satu syi’ar Islam yang terbesar. … Nabi shallallahu ‘alaihi wa sallam tidak memberi keringanan bagi wanita untuk meninggalkan shalat ‘ied, lantas bagaimana lagi dengan kaum pria?”[4]
+\n\n
+Waktu Pelaksanaan Shalat ‘Ied
+\n
+Menurut mayoritas ulama –ulama Hanafiyah, Malikiyah dan Hambali-, waktu shalat ‘ied dimulai dari matahari setinggi tombak[5] sampai waktu zawal (matahari bergeser ke barat).[6]
+Ibnul Qayyim mengatakan, “Nabi shallallahu ‘alaihi wa sallam biasa mengakhirkan shalat ‘Idul Fitri dan mempercepat pelaksanaan shalat ‘Idul Adha. Ibnu ‘Umar  yang sangat dikenal mencontoh ajaran Nabi shallallahu ‘alaihi wa sallam tidaklah keluar menuju lapangan kecuali hingga matahari meninggi.”[7]
+\n\n
+Tujuan mengapa shalat ‘Idul Adha dikerjakan lebih awal adalah agar orang-orang dapat segera menyembelih qurbannya. Sedangkan shalat ‘Idul Fitri agak diundur bertujuan agar kaum muslimin masih punya kesempatan untuk menunaikan zakat fithri.[8]
+\n\n
+Tempat Pelaksanaan Shalat ‘Ied
+\n
+Tempat pelaksanaan shalat ‘ied lebih utama (lebih afdhol) dilakukan di tanah lapang, kecuali jika ada udzur seperti hujan. Abu Sa’id Al Khudri mengatakan,
+\n\n
+كَانَ رَسُولُ اللَّهِ – صلى الله عليه وسلم – يَخْرُجُ يَوْمَ الْفِطْرِ وَالأَضْحَى إِلَى الْمُصَلَّى
+\n\n
+“Rasulullah shallalahu ‘alaihi wa sallam biasa keluar pada hari raya ‘Idul Fithri dan ‘Idul Adha menuju tanah lapang.”[9]
+An Nawawi mengatakan, “Hadits Abu Sa’id Al Khudri di atas adalah dalil bagi orang yang menganjurkan bahwa shalat ‘ied sebaiknya dilakukan di tanah lapang dan ini lebih afdhol (lebih utama) daripada melakukannya di masjid. Inilah yang dipraktekkan oleh kaum muslimin di berbagai negeri. Adapun penduduk Makkah, maka sejak masa silam shalat ‘ied mereka selalu dilakukan di Masjidil Haram.”[10]
+\n\n
+Tuntunan Ketika Hendak Keluar Melaksanakan Shalat ‘Ied
+\n
+Pertama: Dianjurkan untuk mandi sebelum berangkat shalat. Ibnul Qayyim mengatakan, “Terdapat riwayat yang shahih yang menceritakan bahwa Ibnu ‘Umar yang dikenal sangat mencontoh ajaran Nabi shallallahu ‘alaihi wa sallam biasa mandi pada hari ‘ied sebelum berangkat shalat.”[11]
+\n
+Kedua: Berhias diri dan memakai pakaian yang terbaik. Ibnul Qayyim mengatakan, “Nabi shallallahu ‘alaihi wa sallam biasa keluar ketika shalat ‘Idul Fithri dan ‘Idul Adha dengan pakaiannya yang terbaik.”[12]
+\n
+Ketiga: Makan sebelum keluar menuju shalat ‘ied khusus untuk shalat ‘Idul Fithri.
+Dari ‘Abdullah bin Buraidah, dari ayahnya, ia berkata,
+\n\n
+كَانَ رَسُولُ اللَّهِ -صلى الله عليه وسلم- لاَ يَغْدُو يَوْمَ الْفِطْرِ حَتَّى يَأْكُلَ وَلاَ يَأْكُلُ يَوْمَ الأَضْحَى حَتَّى يَرْجِعَ فَيَأْكُلَ مِنْ أُضْحِيَّتِهِ
+\n\n
+“Rasulullah shallallahu ‘alaihi wa sallam biasa berangkat shalat ‘ied pada hari Idul Fithri dan beliau makan terlebih dahulu. Sedangkan pada hari Idul Adha, beliau tidak makan lebih dulu kecuali setelah pulang dari shalat ‘ied baru beliau menyantap hasil qurbannya.”[13]
+Hikmah dianjurkan makan sebelum berangkat shalat Idul Fithri adalah agar tidak disangka bahwa hari tersebut masih hari berpuasa. Sedangkan untuk shalat Idul Adha dianjurkan untuk tidak makan terlebih dahulu adalah agar daging qurban bisa segera disembelih dan dinikmati setelah shalat ‘ied.[14]
+\n
+Keempat: Bertakbir ketika keluar hendak shalat ‘ied. Dalam suatu riwayat disebutkan,
+\n\n
+كَانَ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يَخْرُجُ يَوْمَ الفِطْرِ فَيُكَبِّر حَتَّى يَأْتِيَ المُصَلَّى وَحَتَّى يَقْضِيَ الصَّلاَةَ فَإِذَا قَضَى الصَّلاَةَ ؛ قَطَعَ التَّكْبِيْر
+\n\n
+“Nabi shallallahu ‘alaihi wa sallam biasa keluar hendak shalat pada hari raya ‘Idul Fithri, lantas beliau bertakbir sampai di lapangan dan sampai shalat hendak dilaksanakan. Ketika shalat hendak dilaksanakan, beliau berhenti dari bertakbir.”[15]
+Dari Ibnu ‘Umar, ia berkata, “Rasulullah shallallahu ‘alaihi wa sallam pernah berangkat shalat ‘ied (Idul Fithri dan Idul Adha) bersama Al Fadhl bin ‘Abbas, ‘Abdullah bin’Abbas, ‘Ali, Ja’far, Al Hasan, Al Husain, Usamah bin Zaid, Zaid bin Haritsah, dan Ayman bin Ummi Ayman, mereka mengangkat suara membaca tahlil (laa ilaha illallah) dan takbir (Allahu Akbar).”[16]
+\n\n
+Tata cara takbir ketika berangkat shalat ‘ied ke lapangan:
+\n
+[1] Disyari’atkan dilakukan oleh setiap orang dengan menjahrkan (mengeraskan) bacaan takbir. Ini berdasarkan kesepakatan empat ulama madzhab.[17]
+\n
+[2] Di antara lafazh takbir adalah,
+\n\n
+اللَّهُ أَكْبَرُ اللَّهُ أَكْبَرُ لَا إلَهَ إلَّا اللَّهُ وَاَللَّهُ أَكْبَرُ اللَّهُ أَكْبَرُ وَلِلَّهِ الْحَمْدُ
+\n\n
+“Allahu akbar, Allahu akbar, laa ilaaha illallah wallahu akbar, Allahu akbar wa lillahil hamd (Allah Maha Besar, Allah Maha Besar, tidak ada sesembahan yang berhak disembah dengan benar selain Allah, Allah Maha Besar, Allah Maha Besar, segala pujian hanya untuk-Nya)” Syaikhul Islam Ibnu Taimiyah mengatakan bahwa lafazh ini dinukil dari banyak sahabat, bahkan ada riwayat yang menyatakan bahwa lafazh ini marfu’ yaitu sampai pada Nabi shallallahu ‘alaihi wa sallam.[18]
+Syaikhul Islam juga menerangkan bahwa jika seseorang mengucapkan “Allahu Akbar, Allahu akbar, Allahu akbar”, itu juga diperbolehkan.[19]
+\n
+Kelima: Menyuruh wanita dan anak kecil untuk berangkat shalat ‘ied. Dalilnya sebagaimana disebutkan dalam hadits Ummu ‘Athiyah yang pernah kami sebutkan. Namun wanita tetap harus memperhatikan adab-adab ketika keluar rumah, yaitu tidak berhias diri dan tidak memakai harum-haruman.
+\n
+Sedangkan dalil mengenai anak kecil, Ibnu ‘Abbas –yang ketika itu masih kecil- pernah ditanya, “Apakah engkau pernah menghadiri shalat ‘ied bersama Nabi shallallahu ‘alaihi wa sallam?” Ia menjawab,
+\n\n
+نَعَمْ ، وَلَوْلاَ مَكَانِى مِنَ الصِّغَرِ مَا شَهِدْتُهُ
+\n\n
+“Iya, aku menghadirinya. Seandainya bukan karena kedudukanku yang termasuk sahabat-sahabat junior, tentu aku tidak akan menghadirinya.”[20]
+\n
+Keenam: Melewati jalan pergi dan pulang yang berbeda. Dari Jabir, beliau mengatakan,
+\n\n
+كَانَ النَّبِىُّ – صلى الله عليه وسلم – إِذَا كَانَ يَوْمُ عِيدٍ خَالَفَ الطَّرِيقَ
+\n\n
+“Nabi shallallahu ‘alaihi wa sallam ketika shalat ‘ied, beliau lewat jalan yang berbeda ketika berangkat dan pulang.”[21]
+\n
+Ketujuh: Dianjurkan berjalan kaki sampai ke tempat shalat dan tidak memakai kendaraan kecuali jika ada hajat. Dari Ibnu ‘Umar, beliau mengatakan,
+\n\n
+كَانَ رَسُولُ اللَّهِ -صلى الله عليه وسلم- يَخْرُجُ إِلَى الْعِيدِ مَاشِيًا وَيَرْجِعُ مَاشِيًا.
+\n\n
+“Rasulullah shallallahu ‘alaihi wa sallam biasa berangkat shalat ‘ied dengan berjalan kaki, begitu pula ketika pulang dengan berjalan kaki.”[22]
+\n
+Tidak Ada Shalat Sunnah Qobliyah ‘Ied dan Ba’diyah ‘Ied
+\n
+Dari Ibnu ‘Abbas, ia berkata,
+\n\n
+أَنَّ رَسُولَ اللَّهِ -صلى الله عليه وسلم- خَرَجَ يَوْمَ أَضْحَى أَوْ فِطْرٍ فَصَلَّى رَكْعَتَيْنِ لَمْ يُصَلِّ قَبْلَهَا وَلاَ بَعْدَهَا
+\n\n
+“Rasulullah shallallahu ‘alaihi wa sallam pernah keluar pada hari Idul Adha atau Idul Fithri, lalu beliau mengerjakan shalat ‘ied dua raka’at, namun beliau tidak mengerjakan shalat qobliyah maupun ba’diyah ‘ied.”[23]
+\n
+Tidak Ada Adzan dan Iqomah Ketika Shalat ‘Ied
+\n
+Dari Jabir bin Samuroh, ia berkata,
+\n\n
+صَلَّيْتُ مَعَ رَسُولِ اللَّهِ -صلى الله عليه وسلم- الْعِيدَيْنِ غَيْرَ مَرَّةٍ وَلاَ مَرَّتَيْنِ بِغَيْرِ أَذَانٍ وَلاَ إِقَامَةٍ.
+\n\n
+“Aku pernah melaksanakan shalat ‘ied (Idul Fithri dan Idul Adha) bersama Rasulullah shallallahu ‘alaihi wa sallam bukan hanya sekali atau dua kali, ketika itu tidak ada adzan maupun iqomah.”[24]
+Ibnul Qayyim mengatakan, “Jika Nabi shallallahu ‘alaihi wa sallam sampai ke tempat shalat, beliau pun mengerjakan shalat ‘ied tanpa ada adzan dan iqomah. Juga ketika itu untuk menyeru jama’ah tidak ada ucapan “Ash Sholaatul Jaam’iah.” Yang termasuk ajaran Nabi adalah tidak melakukan hal-hal semacam tadi.”[25]
+\n\n
+Tata Cara Shalat ‘Ied
+\n
+Jumlah raka’at shalat Idul Fithri dan Idul Adha adalah dua raka’at. Adapun tata caranya adalah sebagai berikut.[26]
+\n
+Pertama: Memulai dengan takbiratul ihrom, sebagaimana shalat-shalat lainnya.
+\n
+Kedua: Kemudian bertakbir (takbir zawa-id/tambahan) sebanyak tujuh kali takbir -selain takbiratul ihrom- sebelum memulai membaca Al Fatihah. Boleh mengangkat tangan ketika takbir-takbir tersebut sebagaimana yang dicontohkan oleh Ibnu ‘Umar. Ibnul Qayyim mengatakan, “Ibnu ‘Umar yang dikenal sangat meneladani Nabi shallallahu ‘alaihi wa sallam biasa mengangkat tangannya dalam setiap takbir.”[27]
+\n
+Ketiga: Di antara takbir-takbir (takbir zawa-id) yang ada tadi tidak ada bacaan dzikir tertentu. Namun ada sebuah riwayat dari Ibnu Mas’ud, ia mengatakan, “Di antara tiap takbir, hendaklah menyanjung dan memuji Allah.”[28] Syaikhul Islam mengatakan bahwa sebagian salaf di antara tiap takbir membaca bacaan,
+\n\n
+سُبْحَانَ اللَّهِ وَالْحَمْدُ لِلَّهِ وَلَا إلَهَ إلَّا اللَّهُ وَاَللَّهُ أَكْبَرُ . اللَّهُمَّ اغْفِرْ لِي وَارْحَمْنِي
+\n\n
+“Subhanallah wal hamdulillah wa  laa ilaha illallah wallahu akbar. Allahummaghfirlii war hamnii (Maha suci Allah, segala pujian bagi-Nya, tidak ada sesembahan yang benar untuk disembah selain Allah. Ya Allah, ampunilah aku dan rahmatilah aku).” Namun ingat sekali lagi, bacaannya tidak dibatasi dengan bacaan ini saja. Boleh juga membaca bacaan lainnya asalkan di dalamnya berisi pujian pada Allah Ta’ala.
+\n
+Keempat: Kemudian membaca Al Fatihah, dilanjutkan dengan membaca surat lainnya. Surat yang dibaca oleh Nabi shallallahu ‘alaihi wa sallam adalah surat Qaaf pada raka’at pertama dan surat Al Qomar pada raka’at kedua. Ada riwayat bahwa ‘Umar bin Al Khattab pernah menanyakan pada Waqid Al Laitsiy mengenai surat apa yang dibaca oleh Rasulullah shallallahu ‘alaihi wa sallam ketika shalat ‘Idul Adha dan ‘Idul Fithri. Ia pun menjawab,
+\n\n
+كَانَ يَقْرَأُ فِيهِمَا بِ (ق وَالْقُرْآنِ الْمَجِيدِ) وَ (اقْتَرَبَتِ السَّاعَةُ وَانْشَقَّ الْقَمَرُ)
+\n\n
+“Nabi shallallahu ‘alaihi wa sallam biasa membaca “Qaaf, wal qur’anil majiid” (surat Qaaf) dan “Iqtarobatis saa’atu wan syaqqol qomar” (surat Al Qomar).”[29]
+\n
+Boleh juga membaca surat Al A’laa pada raka’at pertama dan surat Al Ghosiyah pada raka’at kedua. Dan jika hari ‘ied jatuh pada hari Jum’at, dianjurkan pula membaca surat Al A’laa pada raka’at pertama dan surat Al Ghosiyah pada raka’at kedua, pada shalat ‘ied maupun shalat Jum’at. Dari An Nu’man bin Basyir, Nabi shallallahu ‘alaihi wa sallam bersabda,
+\n\n
+كَانَ رَسُولُ اللَّهِ -صلى الله عليه وسلم- يَقْرَأُ فِى الْعِيدَيْنِ وَفِى الْجُمُعَةِ بِ (سَبِّحِ اسْمَ رَبِّكَ الأَعْلَى) وَ (هَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ) قَالَ وَإِذَا اجْتَمَعَ الْعِيدُ وَالْجُمُعَةُ فِى يَوْمٍ وَاحِدٍ يَقْرَأُ بِهِمَا أَيْضًا فِى الصَّلاَتَيْنِ.
+\n\n
+“Rasulullah shallallahu ‘alaihi wa sallam biasa membaca dalam shalat ‘ied maupun shalat Jum’at “Sabbihisma robbikal a’la” (surat Al A’laa)dan “Hal ataka haditsul ghosiyah” (surat Al Ghosiyah).” An Nu’man bin Basyir mengatakan begitu pula ketika hari ‘ied bertepatan dengan hari Jum’at, beliau membaca kedua surat tersebut di masing-masing shalat.[30]
+\n
+Kelima: Setelah membaca surat, kemudian melakukan gerakan shalat seperti biasa (ruku, i’tidal, sujud, dst).
+\n
+Keenam: Bertakbir ketika bangkit untuk mengerjakan raka’at kedua.
+\n
+Ketujuh: Kemudian bertakbir (takbir zawa-id/tambahan) sebanyak lima kali takbir -selain takbir bangkit dari sujud- sebelum memulai membaca Al Fatihah.
+\n
+Kedelapan: Kemudian membaca surat Al Fatihah dan surat lainnya sebagaimana yang telah disebutkan di atas.
+\n
+Kesembilan: Mengerjakan gerakan lainnya hingga salam.
+\n\n
+Khutbah Setelah Shalat ‘Ied
+\n
+Dari Ibnu ‘Umar, ia mengatakan,
+\n\n
+كَانَ رَسُولُ اللَّهِ – صلى الله عليه وسلم – وَأَبُو بَكْرٍ وَعُمَرُ – رضى الله عنهما – يُصَلُّونَ الْعِيدَيْنِ قَبْلَ الْخُطْبَةِ
+\n\n
+“Nabi shallallahu ‘alaihi wa sallam dan Abu Bakr, begitu pula ‘Umar biasa melaksanakan shalat ‘ied sebelum khutbah.”[31]
+\n
+Setelah melaksanakan shalat ‘ied, imam berdiri untuk melaksanakan khutbah ‘ied dengan sekali khutbah (bukan dua kali seperti khutbah Jum’at).[32] Nabi shallallahu ‘alaihi wa sallam melaksanakan khutbah di atas tanah dan tanpa memakai mimbar.[33] Beliau pun memulai khutbah dengan “hamdalah” (ucapan alhamdulillah) sebagaimana khutbah-khutbah beliau yang lainnya.
+Ibnul Qayyim mengatakan, “Dan tidak diketahui dalam satu hadits pun yang menyebutkan bahwa Nabi shallallahu ‘alaihi wa sallammembuka khutbah ‘iednya dengan bacaan takbir. … Namun beliau memang sering mengucapkan takbir di tengah-tengah khutbah. Akan tetapi, hal ini tidak menunjukkan bahwa beliau selalu memulai khutbah ‘iednya dengan bacaan takbir.”[34]
+Jama’ah boleh memilih mengikuti khutbah ‘ied ataukah tidak. Dari ‘Abdullah bin As Sa-ib, ia berkata bahwa ia pernah menghadiri shalat ‘ied bersama Rasulullah shallallahu ‘alaihi wa sallam, tatkala beliau selesai menunaikan shalat, beliau bersabda,
+\n\n
+إِنَّا نَخْطُبُ فَمَنْ أَحَبَّ أَنْ يَجْلِسَ لِلْخُطْبَةِ فَلْيَجْلِسْ وَمَنْ أَحَبَّ أَنْ يَذْهَبَ فَلْيَذْهَبْ
+\n\n
+“Aku saat ini akan berkhutbah. Siapa yang mau tetap duduk untuk mendengarkan khutbah, silakan ia duduk. Siapa yang ingin pergi, silakan ia pergi.”[35]
+\n\n
+Ucapan Selamat Hari Raya
+\n
+Syaikhul Islam Ibnu Taimiyah menjelaskan, “Adapun tentang ucapan selamat (tah-niah) ketika hari ‘ied seperti sebagian orang mengatakan pada yang lainnya ketika berjumpa setelah shalat ‘ied, “Taqobbalallahu minna wa minkum wa ahaalallahu ‘alaika” dan semacamnya, maka seperti ini telah diriwayatkan oleh beberapa sahabat Nabi. Mereka biasa mengucapkan semacam itu dan para imam juga memberikan keringanan dalam melakukan hal ini sebagaimana Imam Ahmad dan lainnya. Akan tetapi, Imam Ahmad mengatakan, “Aku tidak mau mendahului mengucapkan selamat hari raya pada seorang pun. Namun kalau ada yang mengucapkan selamat padaku, aku akan membalasnya”. Imam Ahmad melakukan semacam ini karena menjawab ucapan selamat adalah wajib, sedangkan memulai mengucapkannya bukanlah sesuatu yang dianjurkan. Dan sebenarnya bukan hanya beliau yang tidak suka melakukan semacam ini. Intinya, barangsiapa yang ingin  mengucapkan selamat, maka ia memiliki qudwah (contoh). Dan barangsiapa yang meninggalkannya, ia pun memiliki qudwah (contoh).”
+\n\n
+Bila Hari ‘Ied Jatuh pada Hari Jum’at
+\n
+Bila hari ‘ied jatuh pada hari Jum’at, maka bagi orang yang telah melaksanakan shalat ‘ied, ia punya pilihan untuk menghadiri shalat Jum’at atau tidak. Namun imam masjid dianjurkan untuk tetap melaksanakan shalat Jum’at agar orang-orang yang punya keinginan menunaikan shalat Jum’at bisa hadir, begitu pula orang yang tidak shalat ‘ied bisa turut hadir. Pendapat ini dipilih oleh mayoritas ulama Hambali. Dan pendapat ini terdapat riwayat dari ‘Umar, ‘Utsman, ‘Ali, Ibnu ‘Umar, Ibnu ‘Abbas dan Ibnu Az Zubair. Dalil dari hal ini adalah:
+\n
+Pertama: Diriwayatkan dari Iyas bin Abi Romlah Asy Syamiy, ia berkata, “Aku pernah menemani Mu’awiyah bin Abi Sufyan dan ia bertanya pada Zaid bin Arqom,
+\n\n
+أَشَهِدْتَ مَعَ رَسُولِ اللَّهِ -صلى الله عليه وسلم- عِيدَيْنِ اجْتَمَعَا فِى يَوْمٍ قَالَ نَعَمْ. قَالَ فَكَيْفَ صَنَعَ قَالَ صَلَّى الْعِيدَ ثُمَّ رَخَّصَ فِى الْجُمُعَةِ فَقَالَ « مَنْ شَاءَ أَنْ يُصَلِّىَ فَلْيُصَلِّ ».
+\n\n
+“Apakah engkau pernah menyaksikan Rasulullah shallallahu ‘alaihi wa sallam bertemu dengan dua ‘ied (hari Idul Fithri atau Idul Adha bertemu dengan hari Jum’at) dalam satu hari?” “Iya”, jawab Zaid. Kemudian Mu’awiyah bertanya lagi, “Apa yang beliau lakukan ketika itu?” “Beliau melaksanakan shalat ‘ied dan memberi keringanan untuk meninggalkan shalat Jum’at”, jawab Zaid lagi. Nabi shallallahu ‘alaihi wa sallam bersabda, “Siapa yang mau shalat Jum’at, maka silakan melaksanakannya.”[36]
+\n
+Kedua: Dari ‘Atho’, ia berkata, “Ibnu Az Zubair ketika hari ‘ied yang jatuh pada hari Jum’at pernah shalat ‘ied bersama kami di awal siang. Kemudian ketika tiba waktu shalat Jum’at Ibnu Az Zubair tidak keluar, beliau hanya shalat sendirian. Tatkala itu Ibnu ‘Abbas berada di Thoif. Ketika Ibnu ‘Abbas tiba, kami pun menceritakan kelakuan Ibnu Az Zubair pada Ibnu ‘Abbas. Ibnu ‘Abbas pun mengatakan, “Ia adalah orang yang menjalankan sunnah (ajaran Nabi) [ashobas sunnah].”[37] Jika sahabat mengatakan ashobas sunnah(menjalankan sunnah), itu berarti statusnya marfu’ yaitu menjadi perkataan Nabi.[38]
+Diceritakan pula bahwa ‘Umar bin Al Khottob melakukan seperti apa yang dilakukan oleh Ibnu Az Zubair. Begitu pula Ibnu ‘Umar tidak menyalahkan perbuatan Ibnu Az Zubair. Begitu pula ‘Ali bin Abi Tholib pernah mengatakan bahwa siapa yang telah menunaikan shalat ‘ied maka ia boleh tidak menunaikan shalat Jum’at. Dan tidak diketahui ada pendapat sahabat lain yang menyelisihi pendapat mereka-mereka ini.[39]
+\n\n
+Akhi, ukhti, yuk baca tulisan lengkapnya di Rumaysho:
+https://rumaysho.com/676-panduan-shalat-idul-fithri-dan-idul-adha.html
+\n\n
+"/>
+        </LinearLayout>
+    </RelativeLayout>
+
+
+
+</ScrollView>
